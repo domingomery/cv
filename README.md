@@ -23,9 +23,9 @@
 
 ### Clase 02 Ju. 13-Aug-2026:
 * 2.0 &nbsp; **MÓDULO CV.02.A**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: Geometría &mdash; Bla bla bla**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/PR02A_CaracteristicasGeometricas.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/pptx/PR02A_CaracteristicasGeometricas.pptx)
-* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo … [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: Geometría &mdash; Coordenadas Homogéneas**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/PR02A_CoordenadasHomogeneas.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/pptx/PR02A_CoordenadasHomogeneas.pptx)
+* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo de Coordenadas Homogéneas [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Momentos de Hu [[Paper]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/papers/Hu_Moments.pdf)
 <hr/>
@@ -38,10 +38,10 @@
 <hr/>
 
 ### Clase 04 Ju. 20-Aug-2026:
-* 2.0 &nbsp; **MÓDULO CV.02.A**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: Geometría &mdash; Bla bla bla**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/PR02A_CaracteristicasGeometricas.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/pptx/PR02A_CaracteristicasGeometricas.pptx)
-* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo … [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
+* 2.0 &nbsp; **MÓDULO CV.02.B**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: Geometría &mdash; Transformaciones 2D**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/PR02B_Transformaciones2D.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/pptx/PR02B_Transformaciones2D.pptx)
+* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo de Transformaciones 2D [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Momentos de Hu [[Paper]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/papers/Hu_Moments.pdf)
 <hr/>
@@ -54,19 +54,19 @@
 <hr/>
 
 ### Clase 06 Ju. 27-Aug-2026:
-* 2.0 &nbsp; **MÓDULO CV.02.A**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: Geometría &mdash; Bla bla bla**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/PR02A_CaracteristicasGeometricas.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/pptx/PR02A_CaracteristicasGeometricas.pptx)
-* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo … [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
+* 2.0 &nbsp; **MÓDULO CV.02.C**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: Geometría &mdash; Transformaciones 3D**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/PR02C_Transformaciones3D.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/pptx/PR02C_Transformaciones3D.pptx)
+* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo de Transformaciones 3D [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Momentos de Hu [[Paper]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/papers/Hu_Moments.pdf)
 <hr/>
 
 ### Clase 07 Ma. 01-Sep-2026:
-* 2.0 &nbsp; **MÓDULO CV.02.A**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: Geometría &mdash; Bla bla bla**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/PR02A_CaracteristicasGeometricas.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/pptx/PR02A_CaracteristicasGeometricas.pptx)
-* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo … [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
+* 2.0 &nbsp; **MÓDULO CV.02.D**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: Geometría &mdash; Calibración**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/PR02D_Calibracion.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/pptx/PR02D_Calibracion.pptx)
+* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo de Calibración [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Momentos de Hu [[Paper]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/papers/Hu_Moments.pdf)
 <hr/>
@@ -79,19 +79,19 @@
 <hr/>
 
 ### Clase 09 Ma. 08-Sep-2026:
-* 2.0 &nbsp; **MÓDULO CV.02.A**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: Geometría &mdash; Bla bla bla**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/PR02A_CaracteristicasGeometricas.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/pptx/PR02A_CaracteristicasGeometricas.pptx)
-* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo … [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
+* 2.0 &nbsp; **MÓDULO CV.02.E**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: Geometría &mdash; Epipolar**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/PR02E_GeometriaEpipolar.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/pptx/PR02E_GeometriaEpipolar.pptx)
+* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo de Geometría Epipolar [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Momentos de Hu [[Paper]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/papers/Hu_Moments.pdf)
 <hr/>
 
 ### Clase 10 Ju. 10-Sep-2026:
-* 2.0 &nbsp; **MÓDULO CV.02.A**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: Geometría &mdash; Bla bla bla**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/PR02A_CaracteristicasGeometricas.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/pptx/PR02A_CaracteristicasGeometricas.pptx)
-* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo … [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
+* 2.0 &nbsp; **MÓDULO CV.02.F**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: Geometría &mdash; Múltiples Vistas**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/PR02F_GeometriaMultiVista.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/pptx/PR02F_GeometriaMultiVista.pptx)
+* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo de Geometría de Multiples Vistas [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Momentos de Hu [[Paper]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/papers/Hu_Moments.pdf)
 <hr/>
@@ -104,4 +104,4 @@
 ---
 
 
-Updated on 06-Aug-2026 at 12:20 by Domingo Mery
+Updated on 06-Aug-2026 at 12:45 by Domingo Mery
