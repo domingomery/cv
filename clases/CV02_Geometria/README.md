@@ -28,8 +28,10 @@
 * > **Material de apoyo para la clase** 
 * >> Momentos de Hu [[Paper]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/papers/Hu_Moments.pdf)
 ### 2.2 Modelacion de una camara:
+* >> Pyhton: Ejemplo de Coordenadas Homogéneas [[Colab]](https://colab.research.google.com/drive/146tZRDi1aMUcAEUHICZm9u5n5tkYe8P2)
+* > **Material de apoyo para la clase** 
+* >> Datos usados en el ejemplo [[Carpeta]](https://github.com/domingomery/cv/tree/main/clases/CV02_Geometria/datos)
 ### 2.3 Homografias:
-* >> Pyhton: Ejemplo de Coordenadas Homogéneas [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
 * >> Pyhton: Ejemplo de Coordenadas Homogéneas [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
 * >> Pyhton: Ejemplo de Transformaciones 2D [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
 * >> Pyhton: Ejemplo de Transformaciones 3D [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
@@ -41,4 +43,4 @@
 ---
 
 
-Updated on 11-Aug-2026 at 08:05 by Domingo Mery
+Updated on 11-Aug-2026 at 08:25 by Domingo Mery

@@ -5,14 +5,16 @@
 <hr/>
 
 ### Clase 01 Ma. 11-Aug-2026:
-* 1.0 &nbsp; **MÓDULO CV.01.A**
+* 1.0 &nbsp; **MÓDULO CV.01**
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; ¿Qué es Visión por Computador?**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://docs.google.com/presentation/d/1uK9SxiwTY4CZ9d-53Do2JWXPd3VBFZuJ/edit?usp=sharing&ouid=109990478408880951919&rtpof=true&sd=true)
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://drive.google.com/drive/folders/15mQlJ-U9nPM8DxFeutGlnOplhs3pgaOf?usp=sharing)
 * 1.1 &nbsp; ---------------------------------------------------------
 * 2.0 &nbsp; **MÓDULO CV.02.A**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: Geometría &mdash; Coordenadas Homogéneas**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/CV02A_CoordenadasHomogeneas.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/pptx/CV02A_CoordenadasHomogeneas.pptx)
-* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo de Coordenadas Homogéneas [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo de Coordenadas Homogéneas [[Colab]](https://colab.research.google.com/drive/146tZRDi1aMUcAEUHICZm9u5n5tkYe8P2)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Datos usados en el ejemplo [[Carpeta]](https://github.com/domingomery/cv/tree/main/clases/CV02_Geometria/datos)
 <hr/>
 
 ### Clase 02 Ju. 13-Aug-2026:
@@ -115,4 +117,4 @@
 ---
 
 
-Updated on 11-Aug-2026 at 08:05 by Domingo Mery
+Updated on 11-Aug-2026 at 08:25 by Domingo Mery
