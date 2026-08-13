@@ -4,7 +4,7 @@
 * >> Presentación [[PPT]](https://docs.google.com/presentation/d/1uK9SxiwTY4CZ9d-53Do2JWXPd3VBFZuJ/edit?usp=sharing&ouid=109990478408880951919&rtpof=true&sd=true)
 * > **Documentos adicionales** 
 * >> Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV00_Lineas_Generales/extras/Programa_Vision2026.pdf)
-* >> Lineamientos del uso de la IA del DCC [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV00_Lineas_Generales/extras/Lineamientos_uso_IA_ver_2.pdf)
+* >> Lineamientos del uso de la IA del DCC [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV00_Lineas_Generales/extras/Lineamientos_uso_IA_en_el_DCC_2026_2.pdf)
 * >> Lineamientos del uso de la IA en Ingeniería UC [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV00_Lineas_Generales/extras/IA_en_la_formacion_Escuela_ING_2026-07-31.pdf)
 * > **Bibliografía** 
 * >> Neural Networks and Deep Learning (Aggarwal, 2019) [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
@@ -16,4 +16,4 @@
 ---
 
 
-Updated on 11-Aug-2026 at 08:25 by Domingo Mery
+Updated on 13-Aug-2026 at 08:59 by Domingo Mery

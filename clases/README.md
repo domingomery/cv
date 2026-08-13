@@ -5,7 +5,7 @@
 <hr/>
 
 ### Clase 01 Ma. 11-Aug-2026:
-* 1.0 &nbsp; **MÓDULO CV.01**
+* 1.0 &nbsp; **MÓDULO CV.01.A**
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; ¿Qué es Visión por Computador?**
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://drive.google.com/drive/folders/15mQlJ-U9nPM8DxFeutGlnOplhs3pgaOf?usp=sharing)
 * 1.1 &nbsp; ---------------------------------------------------------
@@ -23,7 +23,7 @@
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://docs.google.com/presentation/d/1uK9SxiwTY4CZ9d-53Do2JWXPd3VBFZuJ/edit?usp=sharing&ouid=109990478408880951919&rtpof=true&sd=true)
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Documentos adicionales**
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV00_Lineas_Generales/extras/Programa_Vision2026.pdf)
-* 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Lineamientos del uso de la IA del DCC [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV00_Lineas_Generales/extras/Lineamientos_uso_IA_ver_2.pdf)
+* 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Lineamientos del uso de la IA del DCC [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV00_Lineas_Generales/extras/Lineamientos_uso_IA_en_el_DCC_2026_2.pdf)
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Lineamientos del uso de la IA en Ingeniería UC [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV00_Lineas_Generales/extras/IA_en_la_formacion_Escuela_ING_2026-07-31.pdf)
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Bibliografía**
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Neural Networks and Deep Learning (Aggarwal, 2019) [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
@@ -117,4 +117,4 @@
 ---
 
 
-Updated on 11-Aug-2026 at 08:25 by Domingo Mery
+Updated on 13-Aug-2026 at 08:59 by Domingo Mery
