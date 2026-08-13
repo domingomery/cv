@@ -1,7 +1,7 @@
 
 # Capitulo 00: Lineas Generales
 ### 0.1 Presentacion del curso:
-* >> Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV00_Lineas_Generales/extras/2026-Programa_VisionPorComputador.pdf)
+* >> Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV00_Lineas_Generales/extras/CV00_Programa.pdf)
 * >> Reglamento del Curso [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV00_Lineas_Generales/extras/2026-ReglamentoCurso.pdf)
 * > **Documentos adicionales** 
 * >> Lineamientos del uso de la IA del DCC [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV00_Lineas_Generales/extras/Lineamientos_uso_IA_en_el_DCC_2026_2.pdf)
@@ -16,4 +16,4 @@
 ---
 
 
-Updated on 13-Aug-2026 at 10:05 by Domingo Mery
+Updated on 13-Aug-2026 at 10:19 by Domingo Mery
