@@ -13,7 +13,7 @@
 ### Clase 02 Ju. 13-Aug-2026:
 * 0.0 &nbsp; **PRESENTACiÓN DEL CURSO**
 * 0.0 &nbsp; &nbsp; &nbsp; &nbsp;  ¿En qué consiste el curso?
-* 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV00_Lineas_Generales/extras/2026-Programa_VisionPorComputador)
+* 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV00_Lineas_Generales/extras/2026-Programa_VisionPorComputador.pdf)
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Reglamento del Curso [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV00_Lineas_Generales/extras/2026-ReglamentoCurso.pdf)
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Documentos adicionales**
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Lineamientos del uso de la IA del DCC [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV00_Lineas_Generales/extras/Lineamientos_uso_IA_en_el_DCC_2026_2.pdf)
@@ -117,4 +117,4 @@
 ---
 
 
-Updated on 13-Aug-2026 at 10:03 by Domingo Mery
+Updated on 13-Aug-2026 at 10:05 by Domingo Mery
