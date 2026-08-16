@@ -43,8 +43,8 @@
 * > Enunciado E04 [[Colab]](http://google.drive/osso)
 * > Solución E04 [[Colab]](http://google.drive/osso)
 ### 2.3 Homografias:
-* >> Pyhton: Ejemplo de Transformaciones 2D [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
-* >> Pyhton: Ejemplo de Transformaciones 3D [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
+* >> Pyhton: Ejemplo de Transformaciones 2D [[Colab]](https://colab.research.google.com/drive/1ntbUB7Dc3is7fxu3Z6at46DdOeK-nJO3?usp=sharing)
+* >> Pyhton: Ejemplo de Transformaciones 3D [[Colab]](https://colab.research.google.com/drive/1ntbUB7Dc3is7fxu3Z6at46DdOeK-nJO3?usp=sharing)
 * >> Pyhton: Ejemplo de Calibración [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
 * >> Pyhton: Ejemplo de Geometría Epipolar [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
 * >> Pyhton: Ejemplo de Geometría de Multiples Vistas [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
@@ -53,4 +53,4 @@
 ---
 
 
-Updated on 16-Aug-2026 at 08:10 by Domingo Mery
+Updated on 16-Aug-2026 at 08:19 by Domingo Mery

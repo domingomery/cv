@@ -40,7 +40,7 @@
 * 2.0 &nbsp; **MÓDULO CV.02.B**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: Geometría &mdash; Transformaciones 2D**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/CV02B_Transformaciones2D.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/pptx/CV02B_Transformaciones2D.pptx)
-* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo de Transformaciones 2D [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
+* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo de Transformaciones 2D [[Colab]](https://colab.research.google.com/drive/1ntbUB7Dc3is7fxu3Z6at46DdOeK-nJO3?usp=sharing)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Apuntes de Visión (ver pág. 21-29) [[Apuntes]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/extras/2004-ApuntesVision.pdf)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libro de Visión (ver pág. 56-58) [[Libro]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/extras/2015_ComputerVisionXrays_DMery.pdf)
@@ -50,7 +50,7 @@
 * 2.0 &nbsp; **MÓDULO CV.02.C**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: Geometría &mdash; Transformaciones 3D**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/CV02C_Transformaciones3D.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/pptx/CV02C_Transformaciones3D.pptx)
-* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo de Transformaciones 3D [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
+* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo de Transformaciones 3D [[Colab]](https://colab.research.google.com/drive/1ntbUB7Dc3is7fxu3Z6at46DdOeK-nJO3?usp=sharing)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Apuntes de Visión (ver pág. 29-34, 91-96) [[Apuntes]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/extras/2004-ApuntesVision.pdf)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libro de Visión (ver pág. 58-60, 104-106) [[Libro]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/extras/2015_ComputerVisionXrays_DMery.pdf)
@@ -112,4 +112,4 @@
 ---
 
 
-Updated on 16-Aug-2026 at 08:10 by Domingo Mery
+Updated on 16-Aug-2026 at 08:19 by Domingo Mery
