@@ -44,13 +44,17 @@
 * > Solución E04 [[Colab]](http://google.drive/osso)
 ### 2.3 Homografias:
 * >> Pyhton: Ejemplo de Transformaciones 2D [[Colab]](https://colab.research.google.com/drive/10D7Q7r11MuWL2-fNRt2lSqCpSVkvytin?usp=sharing)
+* >> Pyhton: Ejemplo de Mosaicos con SIFT [[Colab]](https://colab.research.google.com/drive/1LCOOdZDg5KN10ZBVcnyw1Xt_QUoIcCGs?usp=sharing)
 * >> Pyhton: Ejemplo de Transformaciones 3D [[Colab]](https://colab.research.google.com/drive/1ntbUB7Dc3is7fxu3Z6at46DdOeK-nJO3?usp=sharing)
-* >> Pyhton: Ejemplo de Calibración [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
-* >> Pyhton: Ejemplo de Geometría Epipolar [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
-* >> Pyhton: Ejemplo de Geometría de Multiples Vistas [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
+* >> Pyhton: Ejemplo de Reconstrucción 3D [[Colab]](https://colab.research.google.com/drive/1YF6EUdH8PhAaPfmGfvBZ6HMKTQUcvBlg?usp=sharing)
+* >> Pyhton: Ejemplo de Calibración Simple [[Colab]](https://colab.research.google.com/drive/1IMUT3diQ3be7DOV2Vp4xbT831rFtfEH5?usp=sharing)
+* >> Pyhton: Ejemplo de Calibración Pro [[Colab]](https://colab.research.google.com/drive/1c1RFOMTk5sNxoTyFieeBEG4BLxZSv_NI?usp=sharing)
+* >> Pyhton: Ejemplo de Calibración No Lineal [[Colab]](https://colab.research.google.com/drive/1zDpc80ujX06jeKeC3obch3GsrucpLzQd?usp=sharing)
+* >> Pyhton: Ejemplo de Geometría Epipolar [[Colab]](https://colab.research.google.com/drive/1q7bruJ-XaXKnmIoDuPF1AjEBmlq4XC67?usp=sharing)
+* >> Pyhton: Ejemplo de Geometría de Multiples Vistas (Trifocal) [[Colab]](https://colab.research.google.com/drive/1T8FIaD3EJwBBM9dwdAaPTDIsRVKeK6De?usp=sharing)
 ### 2.4 Geometria de multiples vistas:
 ### 2.5 Proyecto:
 ---
 
 
-Updated on 16-Aug-2026 at 08:21 by Domingo Mery
+Updated on 16-Aug-2026 at 09:15 by Domingo Mery
