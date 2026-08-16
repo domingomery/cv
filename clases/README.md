@@ -62,6 +62,7 @@
 * 2.0 &nbsp; **MÓDULO CV.02.D**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: Geometría &mdash; Calibración**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/CV02D_Calibracion.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/pptx/CV02D_Calibracion.pptx)
+* 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo de RANSAC [[Colab]](https://colab.research.google.com/drive/1ldp2iAmeHhkAP6iexp50v4vKtHziDc_g?usp=sharing)
 * 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo de Calibración Simple [[Colab]](https://colab.research.google.com/drive/1IMUT3diQ3be7DOV2Vp4xbT831rFtfEH5?usp=sharing)
 * 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo de Calibración Pro [[Colab]](https://colab.research.google.com/drive/1c1RFOMTk5sNxoTyFieeBEG4BLxZSv_NI?usp=sharing)
 * 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo de Calibración No Lineal [[Colab]](https://colab.research.google.com/drive/1zDpc80ujX06jeKeC3obch3GsrucpLzQd?usp=sharing)
@@ -116,4 +117,4 @@
 ---
 
 
-Updated on 16-Aug-2026 at 09:15 by Domingo Mery
+Updated on 16-Aug-2026 at 09:21 by Domingo Mery

@@ -47,6 +47,7 @@
 * >> Pyhton: Ejemplo de Mosaicos con SIFT [[Colab]](https://colab.research.google.com/drive/1LCOOdZDg5KN10ZBVcnyw1Xt_QUoIcCGs?usp=sharing)
 * >> Pyhton: Ejemplo de Transformaciones 3D [[Colab]](https://colab.research.google.com/drive/1ntbUB7Dc3is7fxu3Z6at46DdOeK-nJO3?usp=sharing)
 * >> Pyhton: Ejemplo de Reconstrucción 3D [[Colab]](https://colab.research.google.com/drive/1YF6EUdH8PhAaPfmGfvBZ6HMKTQUcvBlg?usp=sharing)
+* >> Pyhton: Ejemplo de RANSAC [[Colab]](https://colab.research.google.com/drive/1ldp2iAmeHhkAP6iexp50v4vKtHziDc_g?usp=sharing)
 * >> Pyhton: Ejemplo de Calibración Simple [[Colab]](https://colab.research.google.com/drive/1IMUT3diQ3be7DOV2Vp4xbT831rFtfEH5?usp=sharing)
 * >> Pyhton: Ejemplo de Calibración Pro [[Colab]](https://colab.research.google.com/drive/1c1RFOMTk5sNxoTyFieeBEG4BLxZSv_NI?usp=sharing)
 * >> Pyhton: Ejemplo de Calibración No Lineal [[Colab]](https://colab.research.google.com/drive/1zDpc80ujX06jeKeC3obch3GsrucpLzQd?usp=sharing)
@@ -57,4 +58,4 @@
 ---
 
 
-Updated on 16-Aug-2026 at 09:15 by Domingo Mery
+Updated on 16-Aug-2026 at 09:21 by Domingo Mery
