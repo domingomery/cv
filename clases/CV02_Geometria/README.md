@@ -21,7 +21,7 @@
 * >> Apuntes de Visión (ver pág. 17-20) [[Apuntes]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/extras/2004-ApuntesVision.pdf)
 * >> Libro de Visión (ver pág. 60-71, 81-88) [[Libro]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/extras/2015_ComputerVisionXrays_DMery.pdf)
 * > **Cap 02: Geometría &mdash; Epipolar** 
-* >> Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/CV02E_GeometriaEpipolar.*)
+* >> Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/CV02E_Epipolar.*)
 * > **Material de apoyo para la clase** 
 * >> Apuntes de Visión (ver pág. 17-20) [[Apuntes]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/extras/2004-ApuntesVision.pdf)
 * >> Libro de Visión (ver pág. 61-74) [[Libro]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/extras/2015_ComputerVisionXrays_DMery.pdf)
@@ -58,4 +58,4 @@
 ---
 
 
-Updated on 16-Aug-2026 at 09:21 by Domingo Mery
+Updated on 16-Aug-2026 at 11:11 by Domingo Mery

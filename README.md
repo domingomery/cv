@@ -74,7 +74,7 @@
 ### Clase 06 Ju. 27-Aug-2026:
 * 2.0 &nbsp; **MÓDULO CV.02.E**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: Geometría &mdash; Epipolar**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/CV02E_GeometriaEpipolar.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/pptx/CV02E_GeometriaEpipolar.pptx)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/CV02E_Epipolar.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/pptx/CV02E_Epipolar.pptx)
 * 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo de Geometría Epipolar [[Colab]](https://colab.research.google.com/drive/1q7bruJ-XaXKnmIoDuPF1AjEBmlq4XC67?usp=sharing)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Apuntes de Visión (ver pág. 17-20) [[Apuntes]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/extras/2004-ApuntesVision.pdf)
@@ -117,4 +117,4 @@
 ---
 
 
-Updated on 16-Aug-2026 at 09:21 by Domingo Mery
+Updated on 16-Aug-2026 at 11:12 by Domingo Mery
