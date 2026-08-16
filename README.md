@@ -6,7 +6,7 @@
 
 ### Clase 01 Ma. 11-Aug-2026:
 * 1.0 &nbsp; **MÓDULO CV.01.A**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 01: INTRODUCCIÓN &mdash; ¿Qué es Visión por Computador?**
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: GEOMETRÍA &mdash; ¿Qué es Visión por Computador?**
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://drive.google.com/drive/folders/15mQlJ-U9nPM8DxFeutGlnOplhs3pgaOf?usp=sharing)
 <hr/>
 
@@ -40,14 +40,8 @@
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/CV02A_CoordenadasHomogeneas.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/pptx/CV02A_CoordenadasHomogeneas.pptx)
 * 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo de Coordenadas Homogéneas [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Momentos de Hu [[Paper]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/papers/Hu_Moments.pdf)
-<hr/>
-
-### Clase 04 Ju. 20-Aug-2026:
-* 1.0 &nbsp; **MÓDULO CV.E01**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases E01**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E01 [[Colab]](http://google.drive/osso)
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E01 [[Colab]](http://google.drive/osso)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Apuntes de Visión (pág. 17-20) [[Apuntes]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/extras/2004-ApuntesVision.pdf)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libro de Visión (pág. 54-56) [[Libro]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/extras/2015_ComputerVisionXrays_DMery.pdf)
 <hr/>
 
 ### Clase 05 Ma. 25-Aug-2026:
@@ -56,14 +50,6 @@
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/CV02B_Transformaciones2D.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/pptx/CV02B_Transformaciones2D.pptx)
 * 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo de Transformaciones 2D [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Momentos de Hu [[Paper]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/papers/Hu_Moments.pdf)
-<hr/>
-
-### Clase 06 Ju. 27-Aug-2026:
-* 1.0 &nbsp; **MÓDULO CV.E02**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases E02**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E02 [[Colab]](http://google.drive/osso)
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E02 [[Colab]](http://google.drive/osso)
 <hr/>
 
 ### Clase 07 Ma. 01-Sep-2026:
@@ -72,7 +58,6 @@
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/CV02C_Transformaciones3D.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/pptx/CV02C_Transformaciones3D.pptx)
 * 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo de Transformaciones 3D [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Momentos de Hu [[Paper]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/papers/Hu_Moments.pdf)
 <hr/>
 
 ### Clase 08 Ju. 03-Sep-2026:
@@ -81,14 +66,6 @@
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/CV02D_Calibracion.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/pptx/CV02D_Calibracion.pptx)
 * 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo de Calibración [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Momentos de Hu [[Paper]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/papers/Hu_Moments.pdf)
-<hr/>
-
-### Clase 09 Ma. 08-Sep-2026:
-* 1.0 &nbsp; **MÓDULO CV.E03**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases E03**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E03 [[Colab]](http://google.drive/osso)
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E03 [[Colab]](http://google.drive/osso)
 <hr/>
 
 ### Clase 10 Ju. 10-Sep-2026:
@@ -97,7 +74,6 @@
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/CV02E_GeometriaEpipolar.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/pptx/CV02E_GeometriaEpipolar.pptx)
 * 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo de Geometría Epipolar [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Momentos de Hu [[Paper]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/papers/Hu_Moments.pdf)
 <hr/>
 
 ### Clase 11 Ma. 22-Sep-2026:
@@ -106,15 +82,32 @@
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/CV02F_GeometriaMultiVista.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/pptx/CV02F_GeometriaMultiVista.pptx)
 * 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo de Geometría de Multiples Vistas [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Momentos de Hu [[Paper]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/papers/Hu_Moments.pdf)
 <hr/>
 
-### Clase 12 Ju. 24-Sep-2026:
-* 1.0 &nbsp; **MÓDULO CV.E04**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases E04**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E04 [[Colab]](http://google.drive/osso)
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E04 [[Colab]](http://google.drive/osso)
+### Clase 08 Ju. 03-Sep-2026:
+* 1.0 &nbsp; **MÓDULO CV.E01**
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases E01**
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E01 [[Colab]](http://google.drive/osso)
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E01 [[Colab]](http://google.drive/osso)
+* 1.1 &nbsp; ---------------------------------------------------------
+* 1.0 &nbsp; **MÓDULO CV.E02**
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases E02**
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases E02**
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E02 [[Colab]](http://google.drive/osso)
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E02 [[Colab]](http://google.drive/osso)
+* 1.1 &nbsp; ---------------------------------------------------------
+* 2.0 &nbsp; **MÓDULO CV.E03**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases E02**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases E02**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E02 [[Colab]](http://google.drive/osso)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E02 [[Colab]](http://google.drive/osso)
+* 1.1 &nbsp; ---------------------------------------------------------
+* 2.0 &nbsp; **MÓDULO CV.E04**
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; Ejercicio en Clases E04**
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases E04**
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E04 [[Colab]](http://google.drive/osso)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E04 [[Colab]](http://google.drive/osso)
 ---
 
 
-Updated on 13-Aug-2026 at 10:19 by Domingo Mery
+Updated on 16-Aug-2026 at 07:48 by Domingo Mery
