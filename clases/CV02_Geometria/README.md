@@ -12,9 +12,9 @@
 * >> Libro de Visión (ver pág. 56-58) [[Libro]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/extras/2015_ComputerVisionXrays_DMery.pdf)
 * --------------------------------------------------------- 
 * **MÓDULO CV.E01** 
-* > **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases E01** 
-* > Enunciado E01 [[Colab]](https://colab.research.google.com/drive/12ncZ5A2r5O80dpAuIyB4c2npdYTwx4b_?usp=sharing)
-* > Solución E01 [[Colab]](http://google.drive/osso)
+* > **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases CV.E01** 
+* > Enunciado CV.E01 [[Colab]](https://colab.research.google.com/drive/12ncZ5A2r5O80dpAuIyB4c2npdYTwx4b_?usp=sharing)
+* > Solución CV.E01 [[Colab]](http://google.drive/osso)
 * > **Cap 02: Geometría &mdash; Transformaciones 3D** 
 * >> Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/CV02C_Transformaciones3D.*)
 * > **Material de apoyo para la clase** 
@@ -35,18 +35,18 @@
 * > **Material de apoyo para la clase** 
 * >> Apuntes de Visión (ver pág. 74-87) [[Apuntes]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/extras/2004-ApuntesVision.pdf)
 * >> Libro de Visión (ver pág. 99-102) [[Libro]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/extras/2015_ComputerVisionXrays_DMery.pdf)
-* > **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases E03** 
-* > **Ejercicio en clases E03** 
-* > Enunciado E03 [[Colab]](http://google.drive/osso)
-* > Solución E03 [[Colab]](http://google.drive/osso)
+* > **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases CV.E03** 
+* > **Ejercicio en clases CV.E03** 
+* > Enunciado CV.E03 [[Colab]](http://google.drive/osso)
+* > Solución CV.E03 [[Colab]](http://google.drive/osso)
 ### 2.2 Modelacion de una camara:
 * >> Pyhton: Ejemplo de Coordenadas Homogéneas [[Colab]](https://colab.research.google.com/drive/146tZRDi1aMUcAEUHICZm9u5n5tkYe8P2)
 * > **Material de apoyo para la clase** 
 * >> Datos usados en el ejemplo [[Carpeta]](https://github.com/domingomery/cv/tree/main/clases/CV02_Geometria/datos)
-* > **Cap 02: EXTRACCIÓN &mdash; Ejercicio en Clases E04** 
-* > **Ejercicio en clases E04** 
-* > Enunciado E04 [[Colab]](http://google.drive/osso)
-* > Solución E04 [[Colab]](http://google.drive/osso)
+* > **Cap 02: EXTRACCIÓN &mdash; Ejercicio en Clases CV.E04** 
+* > **Ejercicio en clases CV.E04** 
+* > Enunciado CV.E04 [[Colab]](http://google.drive/osso)
+* > Solución CV.E04 [[Colab]](http://google.drive/osso)
 ### 2.3 Homografias:
 * >> Pyhton: Ejemplo de Transformaciones 2D [[Colab]](https://colab.research.google.com/drive/10D7Q7r11MuWL2-fNRt2lSqCpSVkvytin?usp=sharing)
 * >> Pyhton: Ejemplo de Mosaicos con SIFT [[Colab]](https://colab.research.google.com/drive/1LCOOdZDg5KN10ZBVcnyw1Xt_QUoIcCGs?usp=sharing)
@@ -63,4 +63,4 @@
 ---
 
 
-Updated on 18-Aug-2026 at 08:13 by Domingo Mery
+Updated on 18-Aug-2026 at 08:17 by Domingo Mery

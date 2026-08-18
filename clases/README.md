@@ -47,9 +47,9 @@
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libro de Visión (ver pág. 56-58) [[Libro]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/extras/2015_ComputerVisionXrays_DMery.pdf)
 * 2.1 &nbsp; ---------------------------------------------------------
 * 2.1 &nbsp; **MÓDULO CV.E01**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases E01**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E01 [[Colab]](https://colab.research.google.com/drive/12ncZ5A2r5O80dpAuIyB4c2npdYTwx4b_?usp=sharing)
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E01 [[Colab]](http://google.drive/osso)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases CV.E01**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado CV.E01 [[Colab]](https://colab.research.google.com/drive/12ncZ5A2r5O80dpAuIyB4c2npdYTwx4b_?usp=sharing)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución CV.E01 [[Colab]](http://google.drive/osso)
 <hr/>
 
 ### Clase 04 Ju. 20-Aug-2026:
@@ -98,23 +98,23 @@
 
 ### Clase 08 Ju. 03-Sep-2026:
 * 1.0 &nbsp; **MÓDULO CV.E02**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases E02**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases E02**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E02 [[Colab]](http://google.drive/osso)
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E02 [[Colab]](http://google.drive/osso)
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases CV.E02**
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases CV.E02**
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado CV.E02 [[Colab]](http://google.drive/osso)
+* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución CV.E02 [[Colab]](http://google.drive/osso)
 * 1.1 &nbsp; ---------------------------------------------------------
 * 2.0 &nbsp; **MÓDULO CV.E03**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases E03**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases E03**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E03 [[Colab]](http://google.drive/osso)
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E03 [[Colab]](http://google.drive/osso)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases CV.E03**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases CV.E03**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado CV.E03 [[Colab]](http://google.drive/osso)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución CV.E03 [[Colab]](http://google.drive/osso)
 * 1.1 &nbsp; ---------------------------------------------------------
 * 2.0 &nbsp; **MÓDULO CV.E04**
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; Ejercicio en Clases E04**
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases E04**
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E04 [[Colab]](http://google.drive/osso)
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E04 [[Colab]](http://google.drive/osso)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; Ejercicio en Clases CV.E04**
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases CV.E04**
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado CV.E04 [[Colab]](http://google.drive/osso)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  Solución CV.E04 [[Colab]](http://google.drive/osso)
 ---
 
 
-Updated on 18-Aug-2026 at 08:13 by Domingo Mery
+Updated on 18-Aug-2026 at 08:17 by Domingo Mery
