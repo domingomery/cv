@@ -45,6 +45,11 @@
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Apuntes de Visión (ver pág. 21-29) [[Apuntes]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/extras/2004-ApuntesVision.pdf)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libro de Visión (ver pág. 56-58) [[Libro]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/extras/2015_ComputerVisionXrays_DMery.pdf)
+* 2.1 &nbsp; ---------------------------------------------------------
+* 2.1 &nbsp; **MÓDULO CV.E01**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases E01**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E01 [[Colab]](https://colab.research.google.com/drive/12ncZ5A2r5O80dpAuIyB4c2npdYTwx4b_?usp=sharing)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E01 [[Colab]](http://google.drive/osso)
 <hr/>
 
 ### Clase 04 Ju. 20-Aug-2026:
@@ -92,11 +97,6 @@
 <hr/>
 
 ### Clase 08 Ju. 03-Sep-2026:
-* 1.0 &nbsp; **MÓDULO CV.E01**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases E01**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado E01 [[Colab]](http://google.drive/osso)
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E01 [[Colab]](http://google.drive/osso)
-* 1.1 &nbsp; ---------------------------------------------------------
 * 1.0 &nbsp; **MÓDULO CV.E02**
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases E02**
 * 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases E02**
@@ -117,4 +117,4 @@
 ---
 
 
-Updated on 16-Aug-2026 at 11:12 by Domingo Mery
+Updated on 18-Aug-2026 at 08:13 by Domingo Mery

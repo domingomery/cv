@@ -10,6 +10,11 @@
 * > **Material de apoyo para la clase** 
 * >> Apuntes de Visión (ver pág. 21-29) [[Apuntes]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/extras/2004-ApuntesVision.pdf)
 * >> Libro de Visión (ver pág. 56-58) [[Libro]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/extras/2015_ComputerVisionXrays_DMery.pdf)
+* --------------------------------------------------------- 
+* **MÓDULO CV.E01** 
+* > **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases E01** 
+* > Enunciado E01 [[Colab]](https://colab.research.google.com/drive/12ncZ5A2r5O80dpAuIyB4c2npdYTwx4b_?usp=sharing)
+* > Solución E01 [[Colab]](http://google.drive/osso)
 * > **Cap 02: Geometría &mdash; Transformaciones 3D** 
 * >> Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/CV02C_Transformaciones3D.*)
 * > **Material de apoyo para la clase** 
@@ -58,4 +63,4 @@
 ---
 
 
-Updated on 16-Aug-2026 at 11:11 by Domingo Mery
+Updated on 18-Aug-2026 at 08:13 by Domingo Mery
