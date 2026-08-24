@@ -48,7 +48,7 @@
 * 2.1 &nbsp; ---------------------------------------------------------
 * 2.1 &nbsp; **MÓDULO CV.E01**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases CV.E01**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado CV.E01 [[Colab]](https://colab.research.google.com/drive/12ncZ5A2r5O80dpAuIyB4c2npdYTwx4b_?usp=sharing)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado CV.E01 - hacia dónde mira John Lennon [[Colab]](https://colab.research.google.com/drive/12ncZ5A2r5O80dpAuIyB4c2npdYTwx4b_?usp=sharing)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución CV.E01 [[Colab]](http://google.drive/osso)
 <hr/>
 
@@ -74,6 +74,12 @@
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Apuntes de Visión (ver pág. 17-20) [[Apuntes]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/extras/2004-ApuntesVision.pdf)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libro de Visión (ver pág. 60-71, 81-88) [[Libro]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/extras/2015_ComputerVisionXrays_DMery.pdf)
+* 2.1 &nbsp; ---------------------------------------------------------
+* 2.0 &nbsp; **MÓDULO CV.E02**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases CV.E02**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases CV.E02**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado CV.E02 - rectificación de perspectiva de un reloj [[Colab]](https://drive.google.com/file/d/17dtSsaP-H5VzNomI24ocAMzNSKllQc4g/view?usp=sharing)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución CV.E02 [[Colab]](http://google.drive/osso)
 <hr/>
 
 ### Clase 06 Ju. 27-Aug-2026:
@@ -97,12 +103,6 @@
 <hr/>
 
 ### Clase 08 Ju. 03-Sep-2026:
-* 1.0 &nbsp; **MÓDULO CV.E02**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases CV.E02**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases CV.E02**
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado CV.E02 [[Colab]](http://google.drive/osso)
-* 1.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución CV.E02 [[Colab]](http://google.drive/osso)
-* 1.1 &nbsp; ---------------------------------------------------------
 * 2.0 &nbsp; **MÓDULO CV.E03**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases CV.E03**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases CV.E03**
@@ -117,4 +117,4 @@
 ---
 
 
-Updated on 18-Aug-2026 at 08:17 by Domingo Mery
+Updated on 24-Aug-2026 at 11:11 by Domingo Mery

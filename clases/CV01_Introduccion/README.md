@@ -4,14 +4,9 @@
 * > **Cap 02: GEOMETRÍA &mdash; ¿Qué es Visión por Computador?** 
 * >> Presentación [[PPT]](https://drive.google.com/drive/folders/15mQlJ-U9nPM8DxFeutGlnOplhs3pgaOf?usp=sharing)
 * --------------------------------------------------------- 
-* > **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases CV.E02** 
-* > **Ejercicio en clases CV.E02** 
-* > Enunciado CV.E02 [[Colab]](http://google.drive/osso)
-* > Solución CV.E02 [[Colab]](http://google.drive/osso)
-* --------------------------------------------------------- 
 * --------------------------------------------------------- 
 ### 1.2 Historia:
 ---
 
 
-Updated on 18-Aug-2026 at 08:17 by Domingo Mery
+Updated on 24-Aug-2026 at 11:11 by Domingo Mery

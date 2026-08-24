@@ -13,7 +13,7 @@
 * --------------------------------------------------------- 
 * **MÓDULO CV.E01** 
 * > **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases CV.E01** 
-* > Enunciado CV.E01 [[Colab]](https://colab.research.google.com/drive/12ncZ5A2r5O80dpAuIyB4c2npdYTwx4b_?usp=sharing)
+* > Enunciado CV.E01 - hacia dónde mira John Lennon [[Colab]](https://colab.research.google.com/drive/12ncZ5A2r5O80dpAuIyB4c2npdYTwx4b_?usp=sharing)
 * > Solución CV.E01 [[Colab]](http://google.drive/osso)
 * > **Cap 02: Geometría &mdash; Transformaciones 3D** 
 * >> Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/CV02C_Transformaciones3D.*)
@@ -25,6 +25,11 @@
 * > **Material de apoyo para la clase** 
 * >> Apuntes de Visión (ver pág. 17-20) [[Apuntes]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/extras/2004-ApuntesVision.pdf)
 * >> Libro de Visión (ver pág. 60-71, 81-88) [[Libro]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/extras/2015_ComputerVisionXrays_DMery.pdf)
+* --------------------------------------------------------- 
+* > **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases CV.E02** 
+* > **Ejercicio en clases CV.E02** 
+* > Enunciado CV.E02 - rectificación de perspectiva de un reloj [[Colab]](https://drive.google.com/file/d/17dtSsaP-H5VzNomI24ocAMzNSKllQc4g/view?usp=sharing)
+* > Solución CV.E02 [[Colab]](http://google.drive/osso)
 * > **Cap 02: Geometría &mdash; Epipolar** 
 * >> Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/CV02E_Epipolar.*)
 * > **Material de apoyo para la clase** 
@@ -63,4 +68,4 @@
 ---
 
 
-Updated on 18-Aug-2026 at 08:17 by Domingo Mery
+Updated on 24-Aug-2026 at 11:11 by Domingo Mery
