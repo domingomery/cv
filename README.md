@@ -88,6 +88,7 @@
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/CV02E_Epipolar.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/pptx/CV02E_Epipolar.pptx)
 * 2.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo de Geometría Epipolar [[Colab]](https://colab.research.google.com/drive/1q7bruJ-XaXKnmIoDuPF1AjEBmlq4XC67?usp=sharing)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Apuntes de Visión (ver pág. 17-20) [[Apuntes]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/extras/CV02_Resumen.pdf)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Apuntes de Visión (ver pág. 17-20) [[Apuntes]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/extras/2004-ApuntesVision.pdf)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libro de Visión (ver pág. 61-74) [[Libro]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/extras/2015_ComputerVisionXrays_DMery.pdf)
 <hr/>
