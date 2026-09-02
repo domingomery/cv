@@ -49,7 +49,7 @@
 * 2.1 &nbsp; **MÓDULO CV.E01**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases CV.E01**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado CV.E01 - hacia dónde mira John Lennon [[Colab]](https://colab.research.google.com/drive/12ncZ5A2r5O80dpAuIyB4c2npdYTwx4b_?usp=sharing)
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución CV.E01 [[Colab]](http://google.drive/osso)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución CV.E01 [[Colab]](https://drive.google.com/file/d/1B2-SycNaMRN5hZaLFfcYHseDMsVph8OM/view?usp=sharing)
 <hr/>
 
 ### Clase 04 Ju. 20-Aug-2026:
@@ -78,7 +78,7 @@
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases CV.E02**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases CV.E02**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado CV.E02 - rectificación de perspectiva de un reloj [[Colab]](https://drive.google.com/file/d/17dtSsaP-H5VzNomI24ocAMzNSKllQc4g/view?usp=sharing)
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución CV.E02 [[Colab]](http://google.drive/osso)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución CV.E02 [[Colab]](https://drive.google.com/file/d/1GFwc6XT6G8K8qK8oLBpTDcQpSGMss7ZQ/view?usp=sharing)
 <hr/>
 
 ### Clase 06 Ju. 27-Aug-2026:
@@ -107,15 +107,15 @@
 * 2.0 &nbsp; **MÓDULO CV.E03**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases CV.E03**
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases CV.E03**
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado CV.E03 [[Colab]](http://google.drive/osso)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado CV.E03 [[Colab]](https://drive.google.com/file/d/14e2jNKpu3Epk4rGpfGxH13IVlNqOvSIl/view?usp=sharing)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  Solución CV.E03 [[Colab]](http://google.drive/osso)
 * 1.1 &nbsp; ---------------------------------------------------------
 * 2.0 &nbsp; **MÓDULO CV.E04**
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 02: EXTRACCIÓN &mdash; Ejercicio en Clases CV.E04**
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Ejercicio en clases CV.E04**
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado CV.E04 [[Colab]](http://google.drive/osso)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado CV.E04 [[Colab]](https://drive.google.com/file/d/1Kx_KuOwTxpEbOuKCXQk2j_ep3XG7Ms9q/view?usp=sharing)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  Solución CV.E04 [[Colab]](http://google.drive/osso)
 ---
 
 
-Updated on 01-Sep-2026 at 07:11 by Domingo Mery
+Updated on 02-Sep-2026 at 08:20 by Domingo Mery
