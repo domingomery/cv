@@ -277,7 +277,7 @@
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Challenges [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentations/CV04_Challenges.pptx)
 * 4.1 &nbsp; ---------------------------------------------------------
 * 4.1 &nbsp; **MÓDULO CV.E11**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; Ejercicio en Clases CV.E08**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 04: ÉTICA &mdash; Ejercicio en Clases CV.E11**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado CV.E11 - Ética [[Canvas]](https://colab.research.google.com/drive/xxxxxx)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución CV.E11 [[Canvas]](https://colab.research.google.com/drive/xxxxxx)
 <hr/>
@@ -287,4 +287,4 @@
 ---
 
 
-Updated on 02-Oct-2026 at 19:59 by Domingo Mery
+Updated on 02-Oct-2026 at 20:04 by Domingo Mery

@@ -28,7 +28,7 @@
 * >> PPT: Challenges [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentations/CV04_Challenges.pptx)
 * --------------------------------------------------------- 
 * **MÓDULO CV.E11** 
-* > **Cap 03: DEEP LEARNING &mdash; Ejercicio en Clases CV.E08** 
+* > **Cap 04: ÉTICA &mdash; Ejercicio en Clases CV.E11** 
 * >> Enunciado CV.E11 - Ética [[Canvas]](https://colab.research.google.com/drive/xxxxxx)
 * >> Solución CV.E11 [[Canvas]](https://colab.research.google.com/drive/xxxxxx)
 * **AYUDANTIA EXAMEN FINAL** 
@@ -39,4 +39,4 @@
 ---
 
 
-Updated on 02-Oct-2026 at 19:59 by Domingo Mery
+Updated on 02-Oct-2026 at 20:04 by Domingo Mery
