@@ -13,8 +13,8 @@
 * --------------------------------------------------------- 
 * **MÓDULO CV.E01** 
 * > **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases CV.E01** 
-* > Enunciado CV.E01 - hacia dónde mira John Lennon [[Colab]](https://colab.research.google.com/drive/12ncZ5A2r5O80dpAuIyB4c2npdYTwx4b_?usp=sharing)
-* > Solución CV.E01 [[Colab]](https://drive.google.com/file/d/1B2-SycNaMRN5hZaLFfcYHseDMsVph8OM/view?usp=sharing)
+* >> Enunciado CV.E01 - Hacia dónde mira John Lennon [[Colab]](https://colab.research.google.com/drive/12ncZ5A2r5O80dpAuIyB4c2npdYTwx4b_?usp=sharing)
+* >> Solución CV.E01 [[Colab]](https://drive.google.com/file/d/1B2-SycNaMRN5hZaLFfcYHseDMsVph8OM/view?usp=sharing)
 * > **Cap 02: Geometría &mdash; Transformaciones 3D** 
 * >> Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/CV02C_Transformaciones3D.*)
 * > **Material de apoyo para la clase** 
@@ -28,8 +28,8 @@
 * --------------------------------------------------------- 
 * > **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases CV.E02** 
 * > **Ejercicio en clases CV.E02** 
-* > Enunciado CV.E02 - rectificación de perspectiva de un reloj [[Colab]](https://drive.google.com/file/d/17dtSsaP-H5VzNomI24ocAMzNSKllQc4g/view?usp=sharing)
-* > Solución CV.E02 [[Colab]](https://drive.google.com/file/d/1GFwc6XT6G8K8qK8oLBpTDcQpSGMss7ZQ/view?usp=sharing)
+* >> Enunciado CV.E02 - Rectificación de perspectiva de un reloj [[Colab]](https://drive.google.com/file/d/17dtSsaP-H5VzNomI24ocAMzNSKllQc4g/view?usp=sharing)
+* >> Solución CV.E02 [[Colab]](https://drive.google.com/file/d/1GFwc6XT6G8K8qK8oLBpTDcQpSGMss7ZQ/view?usp=sharing)
 * > **Cap 02: Geometría &mdash; Epipolar** 
 * >> Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/presentaciones/CV02E_Epipolar.*)
 * > **Material de apoyo para la clase** 
@@ -43,16 +43,20 @@
 * >> Libro de Visión (ver pág. 99-102) [[Libro]](https://github.com/domingomery/cv/blob/main/clases/CV02_Geometria/extras/2015_ComputerVisionXrays_DMery.pdf)
 * > **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases CV.E03** 
 * > **Ejercicio en clases CV.E03** 
-* > Enunciado CV.E03 [[Colab]](https://drive.google.com/file/d/14e2jNKpu3Epk4rGpfGxH13IVlNqOvSIl/view?usp=sharing)
-* > Solución CV.E03 [[Colab]](http://google.drive/osso)
+* >> Enunciado CV.E03 - Calibración Cámara [[Colab]](https://drive.google.com/file/d/14e2jNKpu3Epk4rGpfGxH13IVlNqOvSIl/view?usp=sharing)
+* >> Solución CV.E03 [[Colab]](http://google.drive/osso)
+* > **Cap 03: DEEP LEARNING &mdash; Ejercicio en Clases CV.E08** 
+* > **Material de apoyo para la clase** 
+* > **Material de apoyo para la clase** 
 ### 2.2 Modelacion de una camara:
 * >> Pyhton: Ejemplo de Coordenadas Homogéneas [[Colab]](https://colab.research.google.com/drive/146tZRDi1aMUcAEUHICZm9u5n5tkYe8P2)
 * > **Material de apoyo para la clase** 
 * >> Datos usados en el ejemplo [[Carpeta]](https://github.com/domingomery/cv/tree/main/clases/CV02_Geometria/datos)
-* > **Cap 02: EXTRACCIÓN &mdash; Ejercicio en Clases CV.E04** 
+* --------------------------------------------------------- 
+* > **Cap 02: GEOMETRÍA &mdash; Ejercicio en Clases CV.E04** 
 * > **Ejercicio en clases CV.E04** 
-* > Enunciado CV.E04 [[Colab]](https://drive.google.com/file/d/1Kx_KuOwTxpEbOuKCXQk2j_ep3XG7Ms9q/view?usp=sharing)
-* > Solución CV.E04 [[Colab]](http://google.drive/osso)
+* >> Enunciado CV.E04 - Geometría Epipolar [[Colab]](https://drive.google.com/file/d/1Kx_KuOwTxpEbOuKCXQk2j_ep3XG7Ms9q/view?usp=sharing)
+* >> Solución CV.E04 [[Colab]](http://google.drive/osso)
 ### 2.3 Homografias:
 * >> Pyhton: Ejemplo de Transformaciones 2D [[Colab]](https://colab.research.google.com/drive/10D7Q7r11MuWL2-fNRt2lSqCpSVkvytin?usp=sharing)
 * >> Pyhton: Ejemplo de Mosaicos con SIFT [[Colab]](https://colab.research.google.com/drive/1LCOOdZDg5KN10ZBVcnyw1Xt_QUoIcCGs?usp=sharing)
@@ -69,4 +73,4 @@
 ---
 
 
-Updated on 02-Sep-2026 at 08:20 by Domingo Mery
+Updated on 02-Oct-2026 at 19:52 by Domingo Mery
