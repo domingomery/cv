@@ -11,8 +11,8 @@
 <hr/>
 
 ### Clase 02 Ju. 13-Aug-2026:
-* 0.0 &nbsp; **PRESENTACiÓN DEL CURSO**
-* 0.0 &nbsp; &nbsp; &nbsp; &nbsp;  ¿En qué consiste el curso?
+* 0.0 &nbsp; **MÓDULO CV.00**
+* 0.0 &nbsp; &nbsp; &nbsp; &nbsp;  **PRESENTACIÓN DEL CURSO  &mdash; En qué consiste el curso?**
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV00_Lineas_Generales/extras/CV00_Programa.pdf)
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Reglamento del Curso [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV00_Lineas_Generales/extras/2026-ReglamentoCurso.pdf)
 * 0.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Documentos adicionales**
@@ -209,8 +209,9 @@
 * 3.1 &nbsp; **MÓDULO CV.03.I**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; Transformers**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03_Transformers.pptx)
-* 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  Apuntes: Tutorial de Transformers from Scratch by Umar Jamil [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03_Diagrams_V2_Transformers.pdf)
-* 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  Podcast Transformers (NotebookLM) [[Audio]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03_Transformers_Podcast.m4a)
+* 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
+* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Apuntes: Tutorial de Transformers from Scratch by Umar Jamil [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03_Diagrams_V2_Transformers.pdf)
+* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Podcast Transformers (NotebookLM) [[Audio]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03_Transformers_Podcast.m4a)
 * 3.3 &nbsp; ---------------------------------------------------------
 <hr/>
 
@@ -220,6 +221,8 @@
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03_VisualTransformers.pptx)
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Transformers with HugginFace [[Colab]](https://drive.google.com/file/d/1dKyjqNNgulTdObwSxyXJpaLq1RCZ-SrZ/view)
 * 3.3 &nbsp; ---------------------------------------------------------
+* 3.1 &nbsp; **MÓDULO CV.E10**
+* 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; Ejercicio en Clases CV.E10**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado CV.E10 - Transformers [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución CV.E10 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 <hr/>
@@ -238,7 +241,7 @@
 
 ### Clase 20 Ma. 17-Nov-2026:
 * 4.1 &nbsp; **MÓDULO CV.04.A**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 04: ÉTICA &mdash;Lo bueno, lo malo y lo feo de la IA**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 04: ÉTICA &mdash; Lo bueno, lo malo y lo feo de la IA**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Paper: Fairness and Machine Learning: Barocas,Hardt, Narayanan [[Book]](https://fairmlbook.org/pdf/fairmlbook.pdf)
@@ -253,11 +256,8 @@
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 04: ÉTICA &mdash;Desafíos éticos del reconocimiento facial**
 * 4.2 &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Desafios eticos en reconocimiento facial [[PPT]](https://www.dropbox.com/s/dpzx2nlr79y565k/2021-FaceEthics.pptx?dl=0)
 * 4.1 &nbsp; ---------------------------------------------------------
-<hr/>
-
-### Clase 21 Ju. 19-Nov-2026:
 * 4.1 &nbsp; **MÓDULO CV.04.C**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 04: ÉTICA &mdash;Federated Learning y Explicabilidad**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 04: ÉTICA &mdash; Herramientas I**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentations/CV04_SwarmLearning.pptx)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Explicabilidad [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentations/CV04_Explicabilidad.pptx)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
@@ -267,7 +267,7 @@
 
 ### Clase 22 Ma. 24-Nov-2026:
 * 4.1 &nbsp; **MÓDULO CV.04.D**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 04: ÉTICA &mdash;Lo bueno, lo malo y lo feo de la IA**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 04: ÉTICA &mdash; Herramientas II**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Bias y Fairness [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentations/CV04_Bias.pptx)
 * 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Buenas Practicas [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentations/CV04_GoodPractices.pptx)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Explicabilidad usando MinPlus [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentations/CV04_MinPlus_SaliencyMaps.pptx)
@@ -287,4 +287,4 @@
 ---
 
 
-Updated on 02-Oct-2026 at 19:52 by Domingo Mery
+Updated on 02-Oct-2026 at 19:59 by Domingo Mery

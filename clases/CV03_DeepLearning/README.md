@@ -30,6 +30,7 @@
 * **MÓDULO CV.03.H** 
 * **MÓDULO CV.03.I** 
 * **MÓDULO CV.03.I** 
+* **MÓDULO CV.E10** 
 ### 3.2 Deteccion de objetos (object detection):
 * >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03_ObjectDetection.pptx)
 * >> Python: Ejemplo Object Detection con YOLO [[Colab]](https://drive.google.com/file/d/19cCPvz_OcT9cKk0NUgb3PnFMFYYHuvlP/view?usp=sharing)
@@ -65,13 +66,15 @@
 * > **Cap 03: DEEP LEARNING &mdash; CLIP** 
 * > **Cap 03: DEEP LEARNING &mdash; Transformers** 
 * >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03_Transformers.pptx)
-* > Apuntes: Tutorial de Transformers from Scratch by Umar Jamil [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03_Diagrams_V2_Transformers.pdf)
-* > Podcast Transformers (NotebookLM) [[Audio]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03_Transformers_Podcast.m4a)
+* > **Material de apoyo para la clase** 
+* >> Apuntes: Tutorial de Transformers from Scratch by Umar Jamil [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03_Diagrams_V2_Transformers.pdf)
+* >> Podcast Transformers (NotebookLM) [[Audio]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03_Transformers_Podcast.m4a)
 * --------------------------------------------------------- 
 * > **Cap 03: DEEP LEARNING &mdash; Transformers** 
 * >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03_VisualTransformers.pptx)
 * >> Python: Transformers with HugginFace [[Colab]](https://drive.google.com/file/d/1dKyjqNNgulTdObwSxyXJpaLq1RCZ-SrZ/view)
 * --------------------------------------------------------- 
+* > **Cap 03: DEEP LEARNING &mdash; Ejercicio en Clases CV.E10** 
 * >> Enunciado CV.E10 - Transformers [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * >> Solución CV.E10 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * **MÓDULO CV.03.J** 
@@ -90,4 +93,4 @@
 ---
 
 
-Updated on 02-Oct-2026 at 19:52 by Domingo Mery
+Updated on 02-Oct-2026 at 19:59 by Domingo Mery

@@ -2,7 +2,7 @@
 # Capitulo 04: Etica
 ### 4.1 Motivacion:
 * **MÓDULO CV.04.A** 
-* > **Cap 04: ÉTICA &mdash;Lo bueno, lo malo y lo feo de la IA** 
+* > **Cap 04: ÉTICA &mdash; Lo bueno, lo malo y lo feo de la IA** 
 * >> Presentación 
 * >> Paper: Fairness and Machine Learning: Barocas,Hardt, Narayanan [[Book]](https://fairmlbook.org/pdf/fairmlbook.pdf)
 * >> Video: Ethics in AI: A Challenging Task - Ricardo Baeza-Yates [[YouTube]](https://youtu.be/rMU9pJCyJYY)
@@ -13,14 +13,14 @@
 * > **Cap 04: ÉTICA &mdash;Desafíos éticos del reconocimiento facial** 
 * --------------------------------------------------------- 
 * **MÓDULO CV.04.C** 
-* > **Cap 04: ÉTICA &mdash;Federated Learning y Explicabilidad** 
+* > **Cap 04: ÉTICA &mdash; Herramientas I** 
 * >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentations/CV04_SwarmLearning.pptx)
 * >> PPT: Explicabilidad [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentations/CV04_Explicabilidad.pptx)
 * > **Material de apoyo para la clase** 
 * >> La nueva Ley 19628 de protección de datos personales Chile [[YouTube]](https://youtu.be/eH3crJoVc6Y?si=QTRXw8zzBWrrbCbG)
 * >> Video: Adversarial Attacks [[YouTube]](https://youtu.be/kxyacmVSGlI)
 * **MÓDULO CV.04.D** 
-* > **Cap 04: ÉTICA &mdash;Lo bueno, lo malo y lo feo de la IA** 
+* > **Cap 04: ÉTICA &mdash; Herramientas II** 
 * >> PPT: Bias y Fairness [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentations/CV04_Bias.pptx)
 * >> PPT: Explicabilidad usando MinPlus [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentations/CV04_MinPlus_SaliencyMaps.pptx)
 * >> Paper: MinPlus [[Paper]](https://openaccess.thecvf.com/content/CVPR2022W/Biometrics/papers/Mery_True_Black-Box_Explanation_in_Facial_Analysis_CVPRW_2022_paper.pdf)
@@ -39,4 +39,4 @@
 ---
 
 
-Updated on 02-Oct-2026 at 19:52 by Domingo Mery
+Updated on 02-Oct-2026 at 19:59 by Domingo Mery
