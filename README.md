@@ -283,8 +283,8 @@
 <hr/>
 
 ### Clase 23 Ju. 26-Nov-2026:
-* 4.1 &nbsp; **AYUDANTIA EXAMEN FINAL**
+* 4.1 &nbsp; **AYUDANTIA PARA EXAMEN FINAL**
 ---
 
 
-Updated on 02-Oct-2026 at 20:04 by Domingo Mery
+Updated on 04-Oct-2026 at 16:08 by Domingo Mery
