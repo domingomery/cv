@@ -31,7 +31,7 @@
 * > **Cap 04: ÉTICA &mdash; Ejercicio en Clases CV.E11** 
 * >> Enunciado CV.E11 - Ética [[Canvas]](https://colab.research.google.com/drive/xxxxxx)
 * >> Solución CV.E11 [[Canvas]](https://colab.research.google.com/drive/xxxxxx)
-* **AYUDANTIA EXAMEN FINAL** 
+* **AYUDANTIA PARA EXAMEN FINAL** 
 ### 4.2 Estudios de caso:
 * > PPT: Desafios eticos en reconocimiento facial [[PPT]](https://www.dropbox.com/s/dpzx2nlr79y565k/2021-FaceEthics.pptx?dl=0)
 * >> PPT: Buenas Practicas [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentations/CV04_GoodPractices.pptx)
@@ -39,4 +39,4 @@
 ---
 
 
-Updated on 04-Oct-2026 at 16:05 by Domingo Mery
+Updated on 04-Oct-2026 at 16:06 by Domingo Mery
