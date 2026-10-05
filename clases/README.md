@@ -120,11 +120,11 @@
 ### Clase 09 Ma. 06-Oct-2026:
 * 3.1 &nbsp; **MÓDULO CV.03.A**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; Introducción**
-* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03A_Introduccion.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/pptx/CV03A_Introduccion.pptx)
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03A_Introduccion.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/pptx/CV03A_Introduccion.pptx)
 * 3.3 &nbsp; ---------------------------------------------------------
 * 3.1 &nbsp; **MÓDULO CV.03.B**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; CNN**
-* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03B_CNN.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/pptx/CV03B_CNN.pptx)
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03B_CNN.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/pptx/CV03B_CNN.pptx)
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo CNN ojo nariz [[Colab]](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-/view?usp=sharing)
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplos CNN (en VisionColab) [[Colab]](https://github.com/domingomery/visioncolab#-image-classification)
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
@@ -135,7 +135,7 @@
 ### Clase 10 Ju. 08-Oct-2026:
 * 3.1 &nbsp; **MÓDULO CV.03.C**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; YOLO**
-* 3.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03_ObjectDetection.pptx)
+* 3.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_ObjectDetection.pptx)
 * 3.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo Object Detection con YOLO [[Colab]](https://drive.google.com/file/d/19cCPvz_OcT9cKk0NUgb3PnFMFYYHuvlP/view?usp=sharing)
 <hr/>
 
@@ -173,7 +173,7 @@
 ### Clase 14 Ma. 27-Oct-2026:
 * 3.1 &nbsp; **MÓDULO CV.03.F**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; UNet**
-* 3.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03_UNet.pptx)
+* 3.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_UNet.pptx)
 * 3.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplos Segmentacion Unet [[Colab]](https://colab.research.google.com/drive/1DA1zOxQnhp9Lae7yIROa5rLV7aMNT0mn)
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 3.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Paper: UNet [[PDF]](https://arxiv.org/pdf/1505.04597.pdf)
@@ -187,8 +187,8 @@
 ### Clase 15 Ju. 29-Oct-2026:
 * 3.1 &nbsp; **MÓDULO CV.03.G**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; GAN y Detección de Anomalías**
-* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03_GAN.pptx)
-* 3.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Anomaly detection [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03_AnomalyDetection.pptx)
+* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_GAN.pptx)
+* 3.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Anomaly detection [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_AnomalyDetection.pptx)
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplos GAN [[Colab]](https://github.com/domingomery/visioncolab#-generative-adversarial-network-gan)
 * 3.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplos Anomaly Detection [[Colab]](https://colab.research.google.com/drive/14pSLbxh8ogFDCV2IjzQbVDMFXBb7aG4i)
 * 3.3 &nbsp; ---------------------------------------------------------
@@ -201,24 +201,24 @@
 ### Clase 16 Ma. 03-Nov-2026:
 * 3.1 &nbsp; **MÓDULO CV.03.H**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; CLIP**
-* 3.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03_CLIP.pptx)
+* 3.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_CLIP.pptx)
 * 3.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: CLIP [[Colab]](https://drive.google.com/file/d/1gc58fR9cE1G1Uszu63P_9WnuHJx9-kKL)
 <hr/>
 
 ### Clase 17 Ju. 05-Nov-2026:
 * 3.1 &nbsp; **MÓDULO CV.03.I**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; Transformers**
-* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03_Transformers.pptx)
+* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_Transformers.pptx)
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
-* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Apuntes: Tutorial de Transformers from Scratch by Umar Jamil [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03_Diagrams_V2_Transformers.pdf)
-* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Podcast Transformers (NotebookLM) [[Audio]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03_Transformers_Podcast.m4a)
+* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Apuntes: Tutorial de Transformers from Scratch by Umar Jamil [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_Diagrams_V2_Transformers.pdf)
+* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Podcast Transformers (NotebookLM) [[Audio]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_Transformers_Podcast.m4a)
 * 3.3 &nbsp; ---------------------------------------------------------
 <hr/>
 
 ### Clase 17 Ju. 05-Nov-2026:
 * 3.1 &nbsp; **MÓDULO CV.03.I**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; Transformers**
-* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03_VisualTransformers.pptx)
+* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_VisualTransformers.pptx)
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Transformers with HugginFace [[Colab]](https://drive.google.com/file/d/1dKyjqNNgulTdObwSxyXJpaLq1RCZ-SrZ/view)
 * 3.3 &nbsp; ---------------------------------------------------------
 * 3.1 &nbsp; **MÓDULO CV.E10**
@@ -230,7 +230,7 @@
 ### Clase 18 Ma. 10-Nov-2026:
 * 3.3 &nbsp; **MÓDULO CV.03.J**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; Stable Difusion**
-* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03_StableDiffusion.pptx)
+* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_StableDiffusion.pptx)
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Difussion Models [[Nota]](https://www.superannotate.com/blog/diffusion-models)
 <hr/>
@@ -258,8 +258,8 @@
 * 4.1 &nbsp; ---------------------------------------------------------
 * 4.1 &nbsp; **MÓDULO CV.04.C**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 04: ÉTICA &mdash; Herramientas I**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentations/CV04_SwarmLearning.pptx)
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Explicabilidad [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentations/CV04_Explicabilidad.pptx)
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04_SwarmLearning.pptx)
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Explicabilidad [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04_Explicabilidad.pptx)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  La nueva Ley 19628 de protección de datos personales Chile [[YouTube]](https://youtu.be/eH3crJoVc6Y?si=QTRXw8zzBWrrbCbG)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Adversarial Attacks [[YouTube]](https://youtu.be/kxyacmVSGlI)
@@ -268,13 +268,13 @@
 ### Clase 22 Ma. 24-Nov-2026:
 * 4.1 &nbsp; **MÓDULO CV.04.D**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 04: ÉTICA &mdash; Herramientas II**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Bias y Fairness [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentations/CV04_Bias.pptx)
-* 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Buenas Practicas [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentations/CV04_GoodPractices.pptx)
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Explicabilidad usando MinPlus [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentations/CV04_MinPlus_SaliencyMaps.pptx)
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Bias y Fairness [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04_Bias.pptx)
+* 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Buenas Practicas [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04_GoodPractices.pptx)
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Explicabilidad usando MinPlus [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04_MinPlus_SaliencyMaps.pptx)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Paper: MinPlus [[Paper]](https://openaccess.thecvf.com/content/CVPR2022W/Biometrics/papers/Mery_True_Black-Box_Explanation_in_Facial_Analysis_CVPRW_2022_paper.pdf)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: MinPlus [[Colab]](https://colab.research.google.com/drive/1tDicgSXk0iEnsTA208Od4j9WUnxSFATO)
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Challenges [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentations/CV04_Challenges.pptx)
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Challenges [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04_Challenges.pptx)
 * 4.1 &nbsp; ---------------------------------------------------------
 * 4.1 &nbsp; **MÓDULO CV.E11**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 04: ÉTICA &mdash; Ejercicio en Clases CV.E11**
@@ -287,4 +287,4 @@
 ---
 
 
-Updated on 05-Oct-2026 at 12:25 by Domingo Mery
+Updated on 05-Oct-2026 at 12:27 by Domingo Mery
