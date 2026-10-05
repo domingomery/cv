@@ -120,11 +120,11 @@
 ### Clase 09 Ma. 06-Oct-2026:
 * 3.1 &nbsp; **MÓDULO CV.03.A**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; Introducción**
-* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03_Introduccion.pptx)
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03A_Introduccion.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/pptx/CV03A_Introduccion.pptx)
 * 3.3 &nbsp; ---------------------------------------------------------
 * 3.1 &nbsp; **MÓDULO CV.03.B**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; CNN**
-* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03_CNN.pptx)
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03B_CNN.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/pptx/CV03B_CNN.pptx)
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo CNN ojo nariz [[Colab]](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-/view?usp=sharing)
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplos CNN (en VisionColab) [[Colab]](https://github.com/domingomery/visioncolab#-image-classification)
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
@@ -287,4 +287,4 @@
 ---
 
 
-Updated on 04-Oct-2026 at 16:08 by Domingo Mery
+Updated on 05-Oct-2026 at 12:25 by Domingo Mery

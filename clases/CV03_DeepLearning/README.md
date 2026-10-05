@@ -2,9 +2,9 @@
 # Capitulo 03: Aplicaciones con Deep Learning
 ### 3.1 Clasificacion de imagenes:
 * **MÓDULO CV.03.A** 
-* >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03_Introduccion.pptx)
+* >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03A_Introduccion.*)
 * **MÓDULO CV.03.B** 
-* >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03_CNN.pptx)
+* >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentations/CV03B_CNN.*)
 * >> Python: Ejemplo CNN ojo nariz [[Colab]](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-/view?usp=sharing)
 * >> Python: Ejemplos CNN (en VisionColab) [[Colab]](https://github.com/domingomery/visioncolab#-image-classification)
 * >> Apuntes: Intro a Redes Neuronales (material de Patrones) [[Link]](https://github.com/domingomery/patrones?tab=readme-ov-file#clase-20-ma-27-may-2025)
@@ -93,4 +93,4 @@
 ---
 
 
-Updated on 04-Oct-2026 at 16:08 by Domingo Mery
+Updated on 05-Oct-2026 at 12:25 by Domingo Mery
