@@ -1,3 +1,7 @@
+# (c) Domingo Mery, 2026
+# Departamento de Ciencia de la Computación
+# Universidad Católica de Chile
+
 import torch
 import matplotlib.pyplot as plt
 from   torchvision.utils import make_grid
@@ -8,8 +12,6 @@ from   sklearn.metrics import confusion_matrix, accuracy_score
 import seaborn as sns
 import numpy as np
 import time
-
-
 
 def display_img(train_set,k):
     (img,label) = train_set[k]
@@ -58,7 +60,6 @@ class ImageClassificationBase(nn.Module):
         x[1] = result['val_loss']
         x[2] = result['val_acc']
         print("%5d %11.4f %11.4f %11.4f %s" % (epoch, x[0], x[1], x[2],st))
-
 
 
 def prediction(model, val_loader):
