@@ -7,7 +7,7 @@
 * >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03B_CNN.*)
 * >> Python: Ejemplo CNN ojo nariz [[Colab]](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-/view?usp=sharing)
 * >> Python: Ejemplos CNN (en VisionColab) [[Colab]](https://github.com/domingomery/visioncolab#-image-classification)
-* >> Apuntes: Intro a Redes Neuronales (material de Patrones) [[Link]](https://github.com/domingomery/patrones?tab=readme-ov-file#clase-20-ma-27-may-2025)
+* >> Apuntes: Intro a Redes Neuronales (material del curso Reconocimiento de Patrones) [[Link]](https://github.com/domingomery/pr/tree/main/clases/PR04_Clasificacion#43-redes-neuronales)
 * >> Apuntes: Como usar Pytorch para entrenar CNN [[Blog]](https://medium.com/thecyphy/train-cnn-model-with-pytorch-21dafb918f48)
 * **MÓDULO CV.03.C** 
 * **MÓDULO CV.E05** 
@@ -93,4 +93,4 @@
 ---
 
 
-Updated on 05-Oct-2026 at 12:27 by Domingo Mery
+Updated on 06-Oct-2026 at 16:59 by Domingo Mery

@@ -128,7 +128,7 @@
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo CNN ojo nariz [[Colab]](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-/view?usp=sharing)
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplos CNN (en VisionColab) [[Colab]](https://github.com/domingomery/visioncolab#-image-classification)
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
-* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Apuntes: Intro a Redes Neuronales (material de Patrones) [[Link]](https://github.com/domingomery/patrones?tab=readme-ov-file#clase-20-ma-27-may-2025)
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Apuntes: Intro a Redes Neuronales (material del curso Reconocimiento de Patrones) [[Link]](https://github.com/domingomery/pr/tree/main/clases/PR04_Clasificacion#43-redes-neuronales)
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Apuntes: Como usar Pytorch para entrenar CNN [[Blog]](https://medium.com/thecyphy/train-cnn-model-with-pytorch-21dafb918f48)
 <hr/>
 
@@ -287,4 +287,4 @@
 ---
 
 
-Updated on 05-Oct-2026 at 12:27 by Domingo Mery
+Updated on 06-Oct-2026 at 16:59 by Domingo Mery
