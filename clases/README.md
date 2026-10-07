@@ -142,12 +142,12 @@
 ### Clase 11 Ma. 13-Oct-2026:
 * 3.1 &nbsp; **MÓDULO CV.E05**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; Ejercicio en Clases CV.E05**
-* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado CV.E05 - CNN [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado CV.E05 - CNN [[Colab]](https://drive.google.com/file/d/14wzeUPWLZnKoVOUQJhuBGSP9kiR0tGAY/view?usp=sharing)
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución CV.E05 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * 3.3 &nbsp; ---------------------------------------------------------
 * 3.1 &nbsp; **MÓDULO CV.E06**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; Ejercicio en Clases CV.E06**
-* 3.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado CV.E06 - YOLO [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* 3.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado CV.E06 - YOLO [[Colab]](https://drive.google.com/file/d/1evRK9Trl8T2ttS_wXN6MbF45y1FpsMFY/view?usp=sharing)
 * 3.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución CV.E06 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 <hr/>
 
@@ -287,4 +287,4 @@
 ---
 
 
-Updated on 06-Oct-2026 at 16:59 by Domingo Mery
+Updated on 07-Oct-2026 at 11:34 by Domingo Mery

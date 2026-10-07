@@ -11,7 +11,7 @@
 * >> Apuntes: Como usar Pytorch para entrenar CNN [[Blog]](https://medium.com/thecyphy/train-cnn-model-with-pytorch-21dafb918f48)
 * **MÓDULO CV.03.C** 
 * **MÓDULO CV.E05** 
-* >> Enunciado CV.E05 - CNN [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* >> Enunciado CV.E05 - CNN [[Colab]](https://drive.google.com/file/d/14wzeUPWLZnKoVOUQJhuBGSP9kiR0tGAY/view?usp=sharing)
 * >> Solución CV.E05 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * **MÓDULO CV.E06** 
 * **MÓDULO CV.03.D** 
@@ -34,7 +34,7 @@
 ### 3.2 Deteccion de objetos (object detection):
 * >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_ObjectDetection.pptx)
 * >> Python: Ejemplo Object Detection con YOLO [[Colab]](https://drive.google.com/file/d/19cCPvz_OcT9cKk0NUgb3PnFMFYYHuvlP/view?usp=sharing)
-* >> Enunciado CV.E06 - YOLO [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* >> Enunciado CV.E06 - YOLO [[Colab]](https://drive.google.com/file/d/1evRK9Trl8T2ttS_wXN6MbF45y1FpsMFY/view?usp=sharing)
 * >> Solución CV.E06 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * >> PPT: Anomaly detection [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_AnomalyDetection.pptx)
 * >> Python: Ejemplos Anomaly Detection [[Colab]](https://colab.research.google.com/drive/14pSLbxh8ogFDCV2IjzQbVDMFXBb7aG4i)
@@ -93,4 +93,4 @@
 ---
 
 
-Updated on 06-Oct-2026 at 16:59 by Domingo Mery
+Updated on 07-Oct-2026 at 11:34 by Domingo Mery
