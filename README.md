@@ -135,7 +135,7 @@
 ### Clase 10 Ju. 08-Oct-2026:
 * 3.1 &nbsp; **MÓDULO CV.03.C**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; YOLO**
-* 3.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_ObjectDetection.pptx)
+* 3.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03C_ObjectDetection.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/pptx/CV03C_ObjectDetection.pptx)
 * 3.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo Object Detection con YOLO [[Colab]](https://drive.google.com/file/d/19cCPvz_OcT9cKk0NUgb3PnFMFYYHuvlP/view?usp=sharing)
 <hr/>
 
@@ -287,4 +287,4 @@
 ---
 
 
-Updated on 07-Oct-2026 at 11:34 by Domingo Mery
+Updated on 13-Oct-2026 at 12:27 by Domingo Mery

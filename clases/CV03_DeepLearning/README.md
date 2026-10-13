@@ -32,7 +32,7 @@
 * **MÓDULO CV.03.I** 
 * **MÓDULO CV.E10** 
 ### 3.2 Deteccion de objetos (object detection):
-* >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_ObjectDetection.pptx)
+* >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03C_ObjectDetection.*)
 * >> Python: Ejemplo Object Detection con YOLO [[Colab]](https://drive.google.com/file/d/19cCPvz_OcT9cKk0NUgb3PnFMFYYHuvlP/view?usp=sharing)
 * >> Enunciado CV.E06 - YOLO [[Colab]](https://drive.google.com/file/d/1evRK9Trl8T2ttS_wXN6MbF45y1FpsMFY/view?usp=sharing)
 * >> Solución CV.E06 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
@@ -93,4 +93,4 @@
 ---
 
 
-Updated on 07-Oct-2026 at 11:34 by Domingo Mery
+Updated on 13-Oct-2026 at 12:27 by Domingo Mery
