@@ -12,7 +12,7 @@
 * **MÓDULO CV.03.C** 
 * **MÓDULO CV.E05** 
 * >> Enunciado CV.E05 - CNN [[Colab]](https://drive.google.com/file/d/14wzeUPWLZnKoVOUQJhuBGSP9kiR0tGAY/view?usp=sharing)
-* >> Solución CV.E05 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* >> Solución CV.E05 [[Colab]](https://drive.google.com/file/d/1iR1_1RAwbVgIMKNFHJ2YF1jFzTln3v1W/view?usp=sharing)
 * **MÓDULO CV.E06** 
 * **MÓDULO CV.03.D** 
 * >> Presentación [[PPT]](https://www.dropbox.com/s/k45nta3dn02vxpe/2021_AnalisisFacial_Teaching.pptx?dl=0)
@@ -35,7 +35,7 @@
 * >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03C_ObjectDetection.*)
 * >> Python: Ejemplo Object Detection con YOLO [[Colab]](https://drive.google.com/file/d/19cCPvz_OcT9cKk0NUgb3PnFMFYYHuvlP/view?usp=sharing)
 * >> Enunciado CV.E06 - YOLO [[Colab]](https://drive.google.com/file/d/1evRK9Trl8T2ttS_wXN6MbF45y1FpsMFY/view?usp=sharing)
-* >> Solución CV.E06 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* >> Solución CV.E06 [[Colab]](https://drive.google.com/file/d/1xjtXvLKTk_3JXc0bW0tbllTlkBvnGmt6/view?usp=sharing)
 * >> PPT: Anomaly detection [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_AnomalyDetection.pptx)
 * >> Python: Ejemplos Anomaly Detection [[Colab]](https://colab.research.google.com/drive/14pSLbxh8ogFDCV2IjzQbVDMFXBb7aG4i)
 * >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_CLIP.pptx)
@@ -93,4 +93,4 @@
 ---
 
 
-Updated on 13-Oct-2026 at 12:27 by Domingo Mery
+Updated on 18-Oct-2026 at 20:30 by Domingo Mery
