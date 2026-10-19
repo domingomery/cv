@@ -15,10 +15,10 @@
 * >> Solución CV.E05 [[Colab]](https://drive.google.com/file/d/1iR1_1RAwbVgIMKNFHJ2YF1jFzTln3v1W/view?usp=sharing)
 * **MÓDULO CV.E06** 
 * **MÓDULO CV.03.D** 
-* >> Presentación [[PPT]](https://www.dropbox.com/s/k45nta3dn02vxpe/2021_AnalisisFacial_Teaching.pptx?dl=0)
+* >> Presentación [[PPT]](https://docs.google.com/presentation/d/1nTqP0wSDCGHlnFlclYlhfKuoQu2vveNv/edit?usp=sharing&ouid=109990478408880951919&rtpof=true&sd=true)
 * >> Python: Ejemplos Facial Analysis [[Colab]](https://github.com/domingomery/visioncolab#-facial-analysis)
 * **MÓDULO CV.03.E** 
-* >> Presentación [[PPT]](https://www.dropbox.com/s/riu9yvy659ut4x5/2022-FacialAnalysis-Social.pptx?dl=0)
+* >> Presentación [[PPT]](https://docs.google.com/presentation/d/1nQdZPWRpbP_gQNmii9_97vIG3yxWMFgP/edit?usp=sharing&ouid=109990478408880951919&rtpof=true&sd=true)
 * >> Python: Face Recognition con AdaFace Basico [[Colab]](https://colab.research.google.com/drive/1gPxbtx0Ueqc3fSSNFGWhDULxDSajxrfZ)
 * **MÓDULO CV.E07** 
 * >> Enunciado CV.E07 - Reconocimiento Facial [[Colab]](https://colab.research.google.com/drive/xxxxxx)
@@ -93,4 +93,4 @@
 ---
 
 
-Updated on 18-Oct-2026 at 20:30 by Domingo Mery
+Updated on 18-Oct-2026 at 21:17 by Domingo Mery
