@@ -154,16 +154,11 @@
 ### Clase 12 Ma. 20-Oct-2026:
 * 3.1 &nbsp; **MÓDULO CV.03.D**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; Análisis Facial**
-* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://docs.google.com/presentation/d/1nTqP0wSDCGHlnFlclYlhfKuoQu2vveNv/edit?usp=sharing&ouid=109990478408880951919&rtpof=true&sd=true)
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03D_AnalisisFacial.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/pptx/CV03D_AnalisisFacial.pptx)
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplos Facial Analysis [[Colab]](https://github.com/domingomery/visioncolab#-facial-analysis)
 <hr/>
 
 ### Clase 13 Ju. 22-Oct-2026:
-* 3.1 &nbsp; **MÓDULO CV.03.E**
-* 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; Análisis Sociales**
-* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://docs.google.com/presentation/d/1nQdZPWRpbP_gQNmii9_97vIG3yxWMFgP/edit?usp=sharing&ouid=109990478408880951919&rtpof=true&sd=true)
-* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Face Recognition con AdaFace Basico [[Colab]](https://colab.research.google.com/drive/1gPxbtx0Ueqc3fSSNFGWhDULxDSajxrfZ)
-* 3.3 &nbsp; ---------------------------------------------------------
 * 3.1 &nbsp; **MÓDULO CV.E07**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; Ejercicio en Clases CV.E07**
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado CV.E07 - Reconocimiento Facial [[Colab]](https://colab.research.google.com/drive/xxxxxx)
@@ -287,4 +282,4 @@
 ---
 
 
-Updated on 20-Oct-2026 at 10:58 by Domingo Mery
+Updated on 21-Oct-2026 at 07:47 by Domingo Mery

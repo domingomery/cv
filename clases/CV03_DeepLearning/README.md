@@ -15,11 +15,8 @@
 * >> Solución CV.E05 [[Colab]](https://drive.google.com/file/d/1iR1_1RAwbVgIMKNFHJ2YF1jFzTln3v1W/view?usp=sharing)
 * **MÓDULO CV.E06** 
 * **MÓDULO CV.03.D** 
-* >> Presentación [[PPT]](https://docs.google.com/presentation/d/1nTqP0wSDCGHlnFlclYlhfKuoQu2vveNv/edit?usp=sharing&ouid=109990478408880951919&rtpof=true&sd=true)
+* >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03D_AnalisisFacial.*)
 * >> Python: Ejemplos Facial Analysis [[Colab]](https://github.com/domingomery/visioncolab#-facial-analysis)
-* **MÓDULO CV.03.E** 
-* >> Presentación [[PPT]](https://docs.google.com/presentation/d/1nQdZPWRpbP_gQNmii9_97vIG3yxWMFgP/edit?usp=sharing&ouid=109990478408880951919&rtpof=true&sd=true)
-* >> Python: Face Recognition con AdaFace Basico [[Colab]](https://colab.research.google.com/drive/1gPxbtx0Ueqc3fSSNFGWhDULxDSajxrfZ)
 * **MÓDULO CV.E07** 
 * >> Enunciado CV.E07 - Reconocimiento Facial [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * >> Solución CV.E07 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
@@ -50,8 +47,6 @@
 * --------------------------------------------------------- 
 * > **Cap 03: DEEP LEARNING &mdash; Ejercicio en Clases CV.E06** 
 * > **Cap 03: DEEP LEARNING &mdash; Análisis Facial** 
-* > **Cap 03: DEEP LEARNING &mdash; Análisis Sociales** 
-* --------------------------------------------------------- 
 * > **Cap 03: DEEP LEARNING &mdash; Ejercicio en Clases CV.E07** 
 * > **Cap 03: DEEP LEARNING &mdash; UNet** 
 * > **Material de apoyo para la clase** 
@@ -93,4 +88,4 @@
 ---
 
 
-Updated on 20-Oct-2026 at 10:58 by Domingo Mery
+Updated on 21-Oct-2026 at 07:47 by Domingo Mery
