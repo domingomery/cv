@@ -16,7 +16,7 @@
 * **MÓDULO CV.E06** 
 * **MÓDULO CV.03.D** 
 * >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03D_AnalisisFacial.*)
-* >> Python: Ejemplos Facial Analysis [[Colab]](https://colab.research.google.com/drive/1gPxbtx0Ueqc3fSSNFGWhDULxDSajxrfZ)
+* >> Python: Ejemplo de Reconocimiento Facial y Detección de Caras [[Colab]](https://colab.research.google.com/drive/1gPxbtx0Ueqc3fSSNFGWhDULxDSajxrfZ)
 * **MÓDULO CV.E07** 
 * >> Enunciado CV.E07 - Reconocimiento Facial [[Colab]](https://drive.google.com/file/d/1qDVBqzHiCdTRfsFewrABbbwnABXIo5Wq/view?usp=sharing)
 * >> Solución CV.E07 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
@@ -88,4 +88,4 @@
 ---
 
 
-Updated on 21-Oct-2026 at 10:47 by Domingo Mery
+Updated on 21-Oct-2026 at 10:55 by Domingo Mery

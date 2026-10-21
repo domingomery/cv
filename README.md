@@ -155,7 +155,7 @@
 * 3.1 &nbsp; **MÓDULO CV.03.D**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; Análisis Facial**
 * 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03D_AnalisisFacial.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/pptx/CV03D_AnalisisFacial.pptx)
-* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplos Facial Analysis [[Colab]](https://colab.research.google.com/drive/1gPxbtx0Ueqc3fSSNFGWhDULxDSajxrfZ)
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Reconocimiento Facial y Detección de Caras [[Colab]](https://colab.research.google.com/drive/1gPxbtx0Ueqc3fSSNFGWhDULxDSajxrfZ)
 <hr/>
 
 ### Clase 13 Ju. 22-Oct-2026:
@@ -282,4 +282,4 @@
 ---
 
 
-Updated on 21-Oct-2026 at 10:47 by Domingo Mery
+Updated on 21-Oct-2026 at 10:55 by Domingo Mery
