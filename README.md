@@ -193,16 +193,16 @@
 <hr/>
 
 ### Clase 16 Ma. 03-Nov-2026:
-* 3.1 &nbsp; **MÓDULO CV.03.H**
+* 3.1 &nbsp; **MÓDULO CV.03.G**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; CLIP**
-* 3.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_CLIP.pptx)
+* 3.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03G_CLIP.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/pptx/CV03G_CLIP.pptx)
 * 3.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: CLIP [[Colab]](https://drive.google.com/file/d/1gc58fR9cE1G1Uszu63P_9WnuHJx9-kKL)
 <hr/>
 
 ### Clase 17 Ju. 05-Nov-2026:
-* 3.1 &nbsp; **MÓDULO CV.03.I**
+* 3.1 &nbsp; **MÓDULO CV.03.H**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; Transformers**
-* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_Transformers.pptx)
+* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03H_Transformers.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/pptx/CV03H_Transformers.pptx)
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Apuntes: Tutorial de Transformers from Scratch by Umar Jamil [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_Diagrams_V2_Transformers.pdf)
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Podcast Transformers (NotebookLM) [[Audio]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_Transformers_Podcast.m4a)
@@ -281,4 +281,4 @@
 ---
 
 
-Updated on 23-Oct-2026 at 15:50 by Domingo Mery
+Updated on 23-Oct-2026 at 15:53 by Domingo Mery

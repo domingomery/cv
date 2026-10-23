@@ -24,8 +24,8 @@
 * **MÓDULO CV.E08** 
 * **MÓDULO CV.03.F** 
 * **MÓDULO CV.E09** 
+* **MÓDULO CV.03.G** 
 * **MÓDULO CV.03.H** 
-* **MÓDULO CV.03.I** 
 * **MÓDULO CV.03.I** 
 * **MÓDULO CV.E10** 
 ### 3.2 Deteccion de objetos (object detection):
@@ -34,7 +34,7 @@
 * >> Enunciado CV.E06 - YOLO [[Colab]](https://drive.google.com/file/d/1evRK9Trl8T2ttS_wXN6MbF45y1FpsMFY/view?usp=sharing)
 * >> Solución CV.E06 [[Colab]](https://drive.google.com/file/d/1xjtXvLKTk_3JXc0bW0tbllTlkBvnGmt6/view?usp=sharing)
 * >> Python: Ejemplos Anomaly Detection [[Colab]](https://colab.research.google.com/drive/14pSLbxh8ogFDCV2IjzQbVDMFXBb7aG4i)
-* >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_CLIP.pptx)
+* >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03G_CLIP.*)
 * >> Python: CLIP [[Colab]](https://drive.google.com/file/d/1gc58fR9cE1G1Uszu63P_9WnuHJx9-kKL)
 ### 3.3 GAN:
 * > **Cap 03: DEEP LEARNING &mdash; Introducción** 
@@ -59,7 +59,7 @@
 * >> Solución CV.E09 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * > **Cap 03: DEEP LEARNING &mdash; CLIP** 
 * > **Cap 03: DEEP LEARNING &mdash; Transformers** 
-* >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_Transformers.pptx)
+* >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03H_Transformers.*)
 * > **Material de apoyo para la clase** 
 * >> Apuntes: Tutorial de Transformers from Scratch by Umar Jamil [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_Diagrams_V2_Transformers.pdf)
 * >> Podcast Transformers (NotebookLM) [[Audio]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_Transformers_Podcast.m4a)
@@ -87,4 +87,4 @@
 ---
 
 
-Updated on 23-Oct-2026 at 15:50 by Domingo Mery
+Updated on 23-Oct-2026 at 15:53 by Domingo Mery
