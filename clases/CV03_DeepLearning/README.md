@@ -20,9 +20,9 @@
 * **MÓDULO CV.E07** 
 * >> Enunciado CV.E07 - Reconocimiento Facial [[Colab]](https://drive.google.com/file/d/1qDVBqzHiCdTRfsFewrABbbwnABXIo5Wq/view?usp=sharing)
 * >> Solución CV.E07 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
-* **MÓDULO CV.03.F** 
+* **MÓDULO CV.03.E** 
 * **MÓDULO CV.E08** 
-* **MÓDULO CV.03.G** 
+* **MÓDULO CV.03.F** 
 * **MÓDULO CV.E09** 
 * **MÓDULO CV.03.H** 
 * **MÓDULO CV.03.I** 
@@ -33,7 +33,6 @@
 * >> Python: Ejemplo Object Detection con YOLO [[Colab]](https://drive.google.com/file/d/19cCPvz_OcT9cKk0NUgb3PnFMFYYHuvlP/view?usp=sharing)
 * >> Enunciado CV.E06 - YOLO [[Colab]](https://drive.google.com/file/d/1evRK9Trl8T2ttS_wXN6MbF45y1FpsMFY/view?usp=sharing)
 * >> Solución CV.E06 [[Colab]](https://drive.google.com/file/d/1xjtXvLKTk_3JXc0bW0tbllTlkBvnGmt6/view?usp=sharing)
-* >> PPT: Anomaly detection [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_AnomalyDetection.pptx)
 * >> Python: Ejemplos Anomaly Detection [[Colab]](https://colab.research.google.com/drive/14pSLbxh8ogFDCV2IjzQbVDMFXBb7aG4i)
 * >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_CLIP.pptx)
 * >> Python: CLIP [[Colab]](https://drive.google.com/file/d/1gc58fR9cE1G1Uszu63P_9WnuHJx9-kKL)
@@ -52,7 +51,7 @@
 * > **Material de apoyo para la clase** 
 * --------------------------------------------------------- 
 * > **Cap 03: DEEP LEARNING &mdash; GAN y Detección de Anomalías** 
-* >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_GAN.pptx)
+* >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03F_GAN.*)
 * >> Python: Ejemplos GAN [[Colab]](https://github.com/domingomery/visioncolab#-generative-adversarial-network-gan)
 * --------------------------------------------------------- 
 * > **Cap 03: DEEP LEARNING &mdash; Ejercicio en Clases CV.E09** 
@@ -79,7 +78,7 @@
 * >> Difussion Models [[Nota]](https://www.superannotate.com/blog/diffusion-models)
 * **AYUDANTIA INTERROGACIÓN I2** 
 ### 3.4 Segmentacion:
-* >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_UNet.pptx)
+* >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03E_UNet.*)
 * >> Python: Ejemplos Segmentacion Unet [[Colab]](https://colab.research.google.com/drive/1DA1zOxQnhp9Lae7yIROa5rLV7aMNT0mn)
 * >> Paper: UNet [[PDF]](https://arxiv.org/pdf/1505.04597.pdf)
 * >> Enunciado CV.E08 - Unet [[Colab]](https://colab.research.google.com/drive/xxxxxx)
@@ -88,4 +87,4 @@
 ---
 
 
-Updated on 21-Oct-2026 at 10:55 by Domingo Mery
+Updated on 23-Oct-2026 at 15:50 by Domingo Mery
