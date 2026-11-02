@@ -52,10 +52,10 @@
 * --------------------------------------------------------- 
 * > **Cap 03: DEEP LEARNING &mdash; GAN y Detección de Anomalías** 
 * >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03F_GAN.*)
-* >> Python: Ejemplos GAN [[Colab]](https://github.com/domingomery/visioncolab#-generative-adversarial-network-gan)
+* >> Python: Ejemplos GAN [[Colab]](https://colab.research.google.com/drive/1BHKXuTINvGUvj7lpp2sgH2UuD8Y3M18m#scrollTo=OA1vW0Dq0WW8)
 * --------------------------------------------------------- 
 * > **Cap 03: DEEP LEARNING &mdash; Ejercicio en Clases CV.E09** 
-* >> Enunciado CV.E09 - GAN [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* >> Enunciado CV.E09 - GAN [[Colab]](https://drive.google.com/file/d/1pwgVL1jXmDhFGuWhjE6hoPae6Y5CokNk/view?usp=sharing)
 * >> Solución CV.E09 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * > **Cap 03: DEEP LEARNING &mdash; CLIP** 
 * > **Cap 03: DEEP LEARNING &mdash; Transformers** 
@@ -65,15 +65,15 @@
 * >> Podcast Transformers (NotebookLM) [[Audio]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_Transformers_Podcast.m4a)
 * --------------------------------------------------------- 
 * > **Cap 03: DEEP LEARNING &mdash; Transformers** 
-* >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_VisualTransformers.pptx)
+* >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03H_Transformers.*)
 * >> Python: Transformers with HugginFace [[Colab]](https://drive.google.com/file/d/1dKyjqNNgulTdObwSxyXJpaLq1RCZ-SrZ/view)
 * --------------------------------------------------------- 
 * > **Cap 03: DEEP LEARNING &mdash; Ejercicio en Clases CV.E10** 
 * >> Enunciado CV.E10 - Transformers [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * >> Solución CV.E10 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * **MÓDULO CV.03.J** 
-* > **Cap 03: DEEP LEARNING &mdash; Stable Difusion** 
-* >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_StableDiffusion.pptx)
+* > **Cap 03: DEEP LEARNING &mdash; Stable Difussion** 
+* >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03I_StableDiffusion.*)
 * > **Material de apoyo para la clase** 
 * >> Difussion Models [[Nota]](https://www.superannotate.com/blog/diffusion-models)
 * **AYUDANTIA INTERROGACIÓN I2** 
@@ -81,10 +81,10 @@
 * >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03E_UNet.*)
 * >> Python: Ejemplos Segmentacion Unet [[Colab]](https://colab.research.google.com/drive/1DA1zOxQnhp9Lae7yIROa5rLV7aMNT0mn)
 * >> Paper: UNet [[PDF]](https://arxiv.org/pdf/1505.04597.pdf)
-* >> Enunciado CV.E08 - Unet [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* >> Enunciado CV.E08 - Unet [[Colab]](https://drive.google.com/file/d/181Znk5p70WlMBWgZURPq8s0v433yl3OQ/view?usp=sharing)
 * >> Solución CV.E08 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 ### 3.5 Proyecto:
 ---
 
 
-Updated on 23-Oct-2026 at 15:53 by Domingo Mery
+Updated on 02-Nov-2026 at 11:51 by Domingo Mery
