@@ -69,7 +69,7 @@
 * >> Python: Transformers with HugginFace [[Colab]](https://drive.google.com/file/d/1dKyjqNNgulTdObwSxyXJpaLq1RCZ-SrZ/view)
 * --------------------------------------------------------- 
 * > **Cap 03: DEEP LEARNING &mdash; Ejercicio en Clases CV.E10** 
-* >> Enunciado CV.E10 - Transformers [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* >> Enunciado CV.E10 - Transformers [[Colab]](https://drive.google.com/file/d/1nbe__tx19wgnZX6vg09wXCqbEQHSxUJB/view?usp=sharing)
 * >> Solución CV.E10 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * **MÓDULO CV.03.J** 
 * > **Cap 03: DEEP LEARNING &mdash; Stable Difussion** 
@@ -87,4 +87,4 @@
 ---
 
 
-Updated on 05-Nov-2026 at 15:36 by Domingo Mery
+Updated on 05-Nov-2026 at 16:48 by Domingo Mery

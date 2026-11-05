@@ -217,7 +217,7 @@
 * 3.3 &nbsp; ---------------------------------------------------------
 * 3.1 &nbsp; **MÓDULO CV.E10**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; Ejercicio en Clases CV.E10**
-* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado CV.E10 - Transformers [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado CV.E10 - Transformers [[Colab]](https://drive.google.com/file/d/1nbe__tx19wgnZX6vg09wXCqbEQHSxUJB/view?usp=sharing)
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución CV.E10 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 <hr/>
 
@@ -281,4 +281,4 @@
 ---
 
 
-Updated on 05-Nov-2026 at 15:36 by Domingo Mery
+Updated on 05-Nov-2026 at 16:48 by Domingo Mery
