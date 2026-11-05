@@ -64,8 +64,8 @@
 * >> Apuntes: Tutorial de Transformers from Scratch by Umar Jamil [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_Diagrams_V2_Transformers.pdf)
 * >> Podcast Transformers (NotebookLM) [[Audio]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_Transformers_Podcast.m4a)
 * --------------------------------------------------------- 
-* > **Cap 03: DEEP LEARNING &mdash; Transformers** 
-* >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03H_Transformers.*)
+* > **Cap 03: DEEP LEARNING &mdash; Visual Transformers** 
+* >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03I_ViT.*)
 * >> Python: Transformers with HugginFace [[Colab]](https://drive.google.com/file/d/1dKyjqNNgulTdObwSxyXJpaLq1RCZ-SrZ/view)
 * --------------------------------------------------------- 
 * > **Cap 03: DEEP LEARNING &mdash; Ejercicio en Clases CV.E10** 
@@ -73,7 +73,7 @@
 * >> Solución CV.E10 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * **MÓDULO CV.03.J** 
 * > **Cap 03: DEEP LEARNING &mdash; Stable Difussion** 
-* >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03I_StableDiffusion.*)
+* >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03J_StableDiffusion.*)
 * > **Material de apoyo para la clase** 
 * >> Difussion Models [[Nota]](https://www.superannotate.com/blog/diffusion-models)
 * **AYUDANTIA INTERROGACIÓN I2** 
@@ -87,4 +87,4 @@
 ---
 
 
-Updated on 02-Nov-2026 at 11:51 by Domingo Mery
+Updated on 05-Nov-2026 at 15:30 by Domingo Mery
