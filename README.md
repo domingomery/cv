@@ -204,8 +204,8 @@
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; Transformers**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03H_Transformers.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/pptx/CV03H_Transformers.pptx)
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
-* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Apuntes: Tutorial de Transformers from Scratch by Umar Jamil [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_Diagrams_V2_Transformers.pdf)
-* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Podcast Transformers (NotebookLM) [[Audio]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03_Transformers_Podcast.m4a)
+* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Apuntes: Tutorial de Transformers from Scratch by Umar Jamil [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03H_Diagrams_V2_Transformers.pdf)
+* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Podcast Transformers (NotebookLM) [[Audio]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03H_Transformers_Podcast.m4a)
 * 3.3 &nbsp; ---------------------------------------------------------
 <hr/>
 
@@ -281,4 +281,4 @@
 ---
 
 
-Updated on 05-Nov-2026 at 15:30 by Domingo Mery
+Updated on 05-Nov-2026 at 15:36 by Domingo Mery
