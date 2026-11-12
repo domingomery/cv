@@ -26,8 +26,8 @@
 * **MÓDULO CV.E09** 
 * **MÓDULO CV.03.G** 
 * **MÓDULO CV.03.H** 
-* **MÓDULO CV.03.I** 
 * **MÓDULO CV.E10** 
+* **MÓDULO CV.03.I** 
 ### 3.2 Deteccion de objetos (object detection):
 * >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03C_ObjectDetection.*)
 * >> Python: Ejemplo Object Detection con YOLO [[Colab]](https://drive.google.com/file/d/19cCPvz_OcT9cKk0NUgb3PnFMFYYHuvlP/view?usp=sharing)
@@ -64,18 +64,19 @@
 * >> Apuntes: Tutorial de Transformers from Scratch by Umar Jamil [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03H_Diagrams_V2_Transformers.pdf)
 * >> Podcast Transformers (NotebookLM) [[Audio]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03H_Transformers_Podcast.m4a)
 * --------------------------------------------------------- 
-* > **Cap 03: DEEP LEARNING &mdash; Visual Transformers** 
-* >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03I_ViT.*)
-* >> Python: Transformers with HugginFace [[Colab]](https://drive.google.com/file/d/1dKyjqNNgulTdObwSxyXJpaLq1RCZ-SrZ/view)
-* --------------------------------------------------------- 
 * > **Cap 03: DEEP LEARNING &mdash; Ejercicio en Clases CV.E10** 
 * >> Enunciado CV.E10 - Transformers [[Colab]](https://drive.google.com/file/d/1nbe__tx19wgnZX6vg09wXCqbEQHSxUJB/view?usp=sharing)
 * >> Solución CV.E10 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* > **Cap 03: DEEP LEARNING &mdash; Visual Transformers** 
+* >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03I_ViT.*)
+* >> Python: Transformers with HuggingFace [[Colab]](https://drive.google.com/file/d/1dKyjqNNgulTdObwSxyXJpaLq1RCZ-SrZ/view)
+* --------------------------------------------------------- 
 * **MÓDULO CV.03.J** 
 * > **Cap 03: DEEP LEARNING &mdash; Stable Difussion** 
 * >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03J_StableDiffusion.*)
 * > **Material de apoyo para la clase** 
 * >> Difussion Models [[Nota]](https://www.superannotate.com/blog/diffusion-models)
+* --------------------------------------------------------- 
 * **AYUDANTIA INTERROGACIÓN I2** 
 ### 3.4 Segmentacion:
 * >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03E_UNet.*)
@@ -87,4 +88,4 @@
 ---
 
 
-Updated on 05-Nov-2026 at 16:48 by Domingo Mery
+Updated on 12-Nov-2026 at 10:34 by Domingo Mery

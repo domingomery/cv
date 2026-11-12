@@ -207,33 +207,28 @@
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Apuntes: Tutorial de Transformers from Scratch by Umar Jamil [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03H_Diagrams_V2_Transformers.pdf)
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Podcast Transformers (NotebookLM) [[Audio]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03H_Transformers_Podcast.m4a)
 * 3.3 &nbsp; ---------------------------------------------------------
-<hr/>
-
-### Clase 17 Ju. 05-Nov-2026:
-* 3.1 &nbsp; **MÓDULO CV.03.I**
-* 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; Visual Transformers**
-* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03I_ViT.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/pptx/CV03I_ViT.pptx)
-* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Transformers with HugginFace [[Colab]](https://drive.google.com/file/d/1dKyjqNNgulTdObwSxyXJpaLq1RCZ-SrZ/view)
-* 3.3 &nbsp; ---------------------------------------------------------
 * 3.1 &nbsp; **MÓDULO CV.E10**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; Ejercicio en Clases CV.E10**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado CV.E10 - Transformers [[Colab]](https://drive.google.com/file/d/1nbe__tx19wgnZX6vg09wXCqbEQHSxUJB/view?usp=sharing)
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución CV.E10 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 <hr/>
 
-### Clase 18 Ma. 10-Nov-2026:
+### Clase 17 Ju. 05-Nov-2026:
+* 3.1 &nbsp; **MÓDULO CV.03.I**
+* 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; Visual Transformers**
+* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03I_ViT.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/pptx/CV03I_ViT.pptx)
+* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Transformers with HuggingFace [[Colab]](https://drive.google.com/file/d/1dKyjqNNgulTdObwSxyXJpaLq1RCZ-SrZ/view)
+* 3.3 &nbsp; ---------------------------------------------------------
 * 3.3 &nbsp; **MÓDULO CV.03.J**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 03: DEEP LEARNING &mdash; Stable Difussion**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/CV03J_StableDiffusion.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV03_DeepLearning/presentaciones/pptx/CV03J_StableDiffusion.pptx)
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Difussion Models [[Nota]](https://www.superannotate.com/blog/diffusion-models)
-<hr/>
-
-### Clase 19 Ju. 12-Nov-2026:
+* 3.3 &nbsp; ---------------------------------------------------------
 * 3.3 &nbsp; **AYUDANTIA INTERROGACIÓN I2**
 <hr/>
 
-### Clase 20 Ma. 17-Nov-2026:
+### Clase 18 Ju. 12-Nov-2026:
 * 4.1 &nbsp; **MÓDULO CV.04.A**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 04: ÉTICA &mdash; Lo bueno, lo malo y lo feo de la IA**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación
@@ -245,7 +240,7 @@
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Paper: A Tutorial on Fairness in Machine Learning [[Nota]](https://towardsdatascience.com/a-tutorial-on-fairness-in-machine-learning-3ff8ba1040cb)
 <hr/>
 
-### Clase 21 Ju. 19-Nov-2026:
+### Clase 19 Ma. 17-Nov-2026:
 * 4.1 &nbsp; **MÓDULO CV.04.B**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 04: ÉTICA &mdash;Desafíos éticos del reconocimiento facial**
 * 4.2 &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Desafios eticos en reconocimiento facial [[PPT]](https://www.dropbox.com/s/dpzx2nlr79y565k/2021-FaceEthics.pptx?dl=0)
@@ -259,7 +254,7 @@
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Adversarial Attacks [[YouTube]](https://youtu.be/kxyacmVSGlI)
 <hr/>
 
-### Clase 22 Ma. 24-Nov-2026:
+### Clase 20 Ju. 19-Nov-2026:
 * 4.1 &nbsp; **MÓDULO CV.04.D**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 04: ÉTICA &mdash; Herramientas II**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Bias y Fairness [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04_Bias.pptx)
@@ -276,9 +271,9 @@
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución CV.E11 [[Canvas]](https://colab.research.google.com/drive/xxxxxx)
 <hr/>
 
-### Clase 23 Ju. 26-Nov-2026:
+### Clase 21 Ma. 24-Nov-2026:
 * 4.1 &nbsp; **AYUDANTIA PARA EXAMEN FINAL**
 ---
 
 
-Updated on 05-Nov-2026 at 16:48 by Domingo Mery
+Updated on 12-Nov-2026 at 10:34 by Domingo Mery
