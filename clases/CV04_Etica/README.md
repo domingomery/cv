@@ -1,16 +1,16 @@
 
 # Capitulo 04: Etica
 ### 4.1 Motivacion:
+* **MÓDULO CV.04.B** 
+* > **Cap 04: ÉTICA &mdash;Desafíos éticos del reconocimiento facial** 
 * **MÓDULO CV.04.A** 
 * > **Cap 04: ÉTICA &mdash; Lo bueno, lo malo y lo feo de la IA** 
-* >> Presentación 
+* >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04B_GBU.*)
 * >> Paper: Fairness and Machine Learning: Barocas,Hardt, Narayanan [[Book]](https://fairmlbook.org/pdf/fairmlbook.pdf)
 * >> Video: Ethics in AI: A Challenging Task - Ricardo Baeza-Yates [[YouTube]](https://youtu.be/rMU9pJCyJYY)
 * >> Video: Fairness, part 1 - Moritz Hardt - MLSS 2020 [[YouTube]](https://youtu.be/Igq_S_7IfOU)
 * >> Video: Fairness, part 2 - Moritz Hardt - MLSS 2020 [[YouTube]](https://youtu.be/9oNVFQ9llPc)
 * >> Paper: A Tutorial on Fairness in Machine Learning [[Nota]](https://towardsdatascience.com/a-tutorial-on-fairness-in-machine-learning-3ff8ba1040cb)
-* **MÓDULO CV.04.B** 
-* > **Cap 04: ÉTICA &mdash;Desafíos éticos del reconocimiento facial** 
 * --------------------------------------------------------- 
 * **MÓDULO CV.04.C** 
 * > **Cap 04: ÉTICA &mdash; Herramientas I** 
@@ -33,10 +33,10 @@
 * >> Solución CV.E11 [[Canvas]](https://colab.research.google.com/drive/xxxxxx)
 * **AYUDANTIA PARA EXAMEN FINAL** 
 ### 4.2 Estudios de caso:
-* > PPT: Desafios eticos en reconocimiento facial [[PPT]](https://www.dropbox.com/s/dpzx2nlr79y565k/2021-FaceEthics.pptx?dl=0)
+* >> Presentación [[PPT]](https://docs.google.com/presentation/d/1NB3kClhhDS8AFbIjEAvBWqGiceBf_tMH)
 * >> PPT: Buenas Practicas [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04_GoodPractices.pptx)
 ### 4.3 Ensayo:
 ---
 
 
-Updated on 12-Nov-2026 at 10:34 by Domingo Mery
+Updated on 19-Nov-2026 at 10:32 by Domingo Mery

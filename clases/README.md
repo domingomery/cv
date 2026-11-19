@@ -229,22 +229,25 @@
 <hr/>
 
 ### Clase 18 Ju. 12-Nov-2026:
+* 4.1 &nbsp; **MÓDULO CV.04.B**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 04: ÉTICA &mdash;Desafíos éticos del reconocimiento facial**
+* 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://docs.google.com/presentation/d/1NB3kClhhDS8AFbIjEAvBWqGiceBf_tMH)
+<hr/>
+
+### Clase 19 Ma. 17-Nov-2026:
 * 4.1 &nbsp; **MÓDULO CV.04.A**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 04: ÉTICA &mdash; Lo bueno, lo malo y lo feo de la IA**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04B_GBU.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/pptx/CV04B_GBU.pptx)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Paper: Fairness and Machine Learning: Barocas,Hardt, Narayanan [[Book]](https://fairmlbook.org/pdf/fairmlbook.pdf)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Ethics in AI: A Challenging Task - Ricardo Baeza-Yates [[YouTube]](https://youtu.be/rMU9pJCyJYY)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Fairness, part 1 - Moritz Hardt - MLSS 2020 [[YouTube]](https://youtu.be/Igq_S_7IfOU)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Fairness, part 2 - Moritz Hardt - MLSS 2020 [[YouTube]](https://youtu.be/9oNVFQ9llPc)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Paper: A Tutorial on Fairness in Machine Learning [[Nota]](https://towardsdatascience.com/a-tutorial-on-fairness-in-machine-learning-3ff8ba1040cb)
+* 4.1 &nbsp; ---------------------------------------------------------
 <hr/>
 
-### Clase 19 Ma. 17-Nov-2026:
-* 4.1 &nbsp; **MÓDULO CV.04.B**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 04: ÉTICA &mdash;Desafíos éticos del reconocimiento facial**
-* 4.2 &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Desafios eticos en reconocimiento facial [[PPT]](https://www.dropbox.com/s/dpzx2nlr79y565k/2021-FaceEthics.pptx?dl=0)
-* 4.1 &nbsp; ---------------------------------------------------------
+### Clase 20 Ju. 19-Nov-2026:
 * 4.1 &nbsp; **MÓDULO CV.04.C**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 04: ÉTICA &mdash; Herramientas I**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04_SwarmLearning.pptx)
@@ -252,9 +255,6 @@
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  La nueva Ley 19628 de protección de datos personales Chile [[YouTube]](https://youtu.be/eH3crJoVc6Y?si=QTRXw8zzBWrrbCbG)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Adversarial Attacks [[YouTube]](https://youtu.be/kxyacmVSGlI)
-<hr/>
-
-### Clase 20 Ju. 19-Nov-2026:
 * 4.1 &nbsp; **MÓDULO CV.04.D**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 04: ÉTICA &mdash; Herramientas II**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Bias y Fairness [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04_Bias.pptx)
@@ -276,4 +276,4 @@
 ---
 
 
-Updated on 12-Nov-2026 at 10:34 by Domingo Mery
+Updated on 19-Nov-2026 at 10:32 by Domingo Mery
