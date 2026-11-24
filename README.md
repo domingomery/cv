@@ -249,9 +249,9 @@
 
 ### Clase 20 Ju. 19-Nov-2026:
 * 4.1 &nbsp; **MÓDULO CV.04.C**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 04: ÉTICA &mdash; Herramientas I**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04_SwarmLearning.pptx)
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Explicabilidad [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04_Explicabilidad.pptx)
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 04: ÉTICA &mdash; Explicabilidad**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Explicabilidad [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04C_Explicabilidad.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/pptx/CV04C_Explicabilidad.pptx)
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Swarm learning [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04_SwarmLearning.pptx)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  La nueva Ley 19628 de protección de datos personales Chile [[YouTube]](https://youtu.be/eH3crJoVc6Y?si=QTRXw8zzBWrrbCbG)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Adversarial Attacks [[YouTube]](https://youtu.be/kxyacmVSGlI)
@@ -276,4 +276,4 @@
 ---
 
 
-Updated on 19-Nov-2026 at 10:52 by Domingo Mery
+Updated on 24-Nov-2026 at 07:57 by Domingo Mery

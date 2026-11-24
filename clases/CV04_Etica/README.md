@@ -13,9 +13,9 @@
 * >> Paper: A Tutorial on Fairness in Machine Learning [[Nota]](https://towardsdatascience.com/a-tutorial-on-fairness-in-machine-learning-3ff8ba1040cb)
 * --------------------------------------------------------- 
 * **MÓDULO CV.04.C** 
-* > **Cap 04: ÉTICA &mdash; Herramientas I** 
-* >> Presentación [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04_SwarmLearning.pptx)
-* >> PPT: Explicabilidad [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04_Explicabilidad.pptx)
+* > **Cap 04: ÉTICA &mdash; Explicabilidad** 
+* >> Explicabilidad [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04C_Explicabilidad.*)
+* >> Swarm learning [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04_SwarmLearning.pptx)
 * > **Material de apoyo para la clase** 
 * >> La nueva Ley 19628 de protección de datos personales Chile [[YouTube]](https://youtu.be/eH3crJoVc6Y?si=QTRXw8zzBWrrbCbG)
 * >> Video: Adversarial Attacks [[YouTube]](https://youtu.be/kxyacmVSGlI)
@@ -39,4 +39,4 @@
 ---
 
 
-Updated on 19-Nov-2026 at 10:52 by Domingo Mery
+Updated on 24-Nov-2026 at 07:57 by Domingo Mery
