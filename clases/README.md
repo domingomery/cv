@@ -229,13 +229,13 @@
 <hr/>
 
 ### Clase 18 Ju. 12-Nov-2026:
-* 4.1 &nbsp; **MÓDULO CV.04.B**
+* 4.1 &nbsp; **MÓDULO CV.04.A**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 04: ÉTICA &mdash;Desafíos éticos del reconocimiento facial**
 * 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PPT]](https://docs.google.com/presentation/d/1NB3kClhhDS8AFbIjEAvBWqGiceBf_tMH)
 <hr/>
 
 ### Clase 19 Ma. 17-Nov-2026:
-* 4.1 &nbsp; **MÓDULO CV.04.A**
+* 4.1 &nbsp; **MÓDULO CV.04.B**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 04: ÉTICA &mdash; Lo bueno, lo malo y lo feo de la IA**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Presentación [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04B_GBU.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/pptx/CV04B_GBU.pptx)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
@@ -243,37 +243,27 @@
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Ethics in AI: A Challenging Task - Ricardo Baeza-Yates [[YouTube]](https://youtu.be/rMU9pJCyJYY)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Fairness, part 1 - Moritz Hardt - MLSS 2020 [[YouTube]](https://youtu.be/Igq_S_7IfOU)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Fairness, part 2 - Moritz Hardt - MLSS 2020 [[YouTube]](https://youtu.be/9oNVFQ9llPc)
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  La nueva Ley 19628 de protección de datos personales Chile [[YouTube]](https://youtu.be/eH3crJoVc6Y?si=QTRXw8zzBWrrbCbG)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Paper: A Tutorial on Fairness in Machine Learning [[Nota]](https://towardsdatascience.com/a-tutorial-on-fairness-in-machine-learning-3ff8ba1040cb)
-* 4.1 &nbsp; ---------------------------------------------------------
 <hr/>
 
 ### Clase 20 Ju. 19-Nov-2026:
 * 4.1 &nbsp; **MÓDULO CV.04.C**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 04: ÉTICA &mdash; Explicabilidad**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Explicabilidad [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04C_Explicabilidad.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/pptx/CV04C_Explicabilidad.pptx)
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Swarm learning [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04_SwarmLearning.pptx)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  La nueva Ley 19628 de protección de datos personales Chile [[YouTube]](https://youtu.be/eH3crJoVc6Y?si=QTRXw8zzBWrrbCbG)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Adversarial Attacks [[YouTube]](https://youtu.be/kxyacmVSGlI)
-* 4.1 &nbsp; **MÓDULO CV.04.D**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 04: ÉTICA &mdash; Herramientas II**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Bias y Fairness [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04_Bias.pptx)
-* 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Buenas Practicas [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04_GoodPractices.pptx)
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Explicabilidad usando MinPlus [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04_MinPlus_SaliencyMaps.pptx)
-* 2.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Material de apoyo para la clase**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Paper: MinPlus [[Paper]](https://openaccess.thecvf.com/content/CVPR2022W/Biometrics/papers/Mery_True_Black-Box_Explanation_in_Facial_Analysis_CVPRW_2022_paper.pdf)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: MinPlus [[Colab]](https://colab.research.google.com/drive/1tDicgSXk0iEnsTA208Od4j9WUnxSFATO)
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Challenges [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04_Challenges.pptx)
-* 4.1 &nbsp; ---------------------------------------------------------
-* 4.1 &nbsp; **MÓDULO CV.E11**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 04: ÉTICA &mdash; Ejercicio en Clases CV.E11**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Enunciado CV.E11 - Ética [[Canvas]](https://colab.research.google.com/drive/xxxxxx)
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Solución CV.E11 [[Canvas]](https://colab.research.google.com/drive/xxxxxx)
 <hr/>
 
 ### Clase 21 Ma. 24-Nov-2026:
-* 4.1 &nbsp; **AYUDANTIA PARA EXAMEN FINAL**
+* 4.1 &nbsp; **MÓDULOS CV.04.D y E**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Cap 04: ÉTICA &mdash; Bias y Federated Learning**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Bias [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04D_Bias.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/pptx/CV04D_Bias.pptx)
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Swarm Learning [[PDF]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/CV04E_SwarmLearning.pdf) [[PPT]](https://github.com/domingomery/cv/blob/main/clases/CV04_Etica/presentaciones/pptx/CV04E_SwarmLearning.pptx)
 ---
 
 
-Updated on 24-Nov-2026 at 07:57 by Domingo Mery
+Updated on 26-Nov-2026 at 10:29 by Domingo Mery

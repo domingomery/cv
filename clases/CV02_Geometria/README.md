@@ -47,7 +47,6 @@
 * >> Solución CV.E03 [[Colab]](http://google.drive/osso)
 * > **Cap 03: DEEP LEARNING &mdash; Ejercicio en Clases CV.E08** 
 * > **Material de apoyo para la clase** 
-* > **Material de apoyo para la clase** 
 ### 2.2 Modelacion de una camara:
 * >> Pyhton: Ejemplo de Coordenadas Homogéneas [[Colab]](https://colab.research.google.com/drive/146tZRDi1aMUcAEUHICZm9u5n5tkYe8P2)
 * > **Material de apoyo para la clase** 
@@ -73,4 +72,4 @@
 ---
 
 
-Updated on 24-Nov-2026 at 07:57 by Domingo Mery
+Updated on 26-Nov-2026 at 10:29 by Domingo Mery
